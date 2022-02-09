@@ -19,4 +19,5 @@ Name | Description
 [dnSpy](https://github.com/dnSpy/dnSpy) | .NET debugger and assembly editor
 [ImHex](https://github.com/WerWolv/ImHex) | A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity
+[Simple Sticky Notes](https://www.simplestickynotes.com/) | Free Sticky Notes Software
 []() | 
