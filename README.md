@@ -10,6 +10,10 @@ Name | Description
 [Code Beautify](https://codebeautify.org/) | JSON Beautifier, XML Viewer, JSON Converters, Hex Converters and More...
 [かわいいフリ](https://www.irasutoya.com/) | 素材集
 [ASCII Generator](http://www.network-science.de/) | Generate a ASCII graphic from a word or text
+[Color picker tool](https://developer.mozilla.org/zh-TW/docs/Web/CSS/CSS_Colors/Color_picker_tool) | Color picker 
+[Free Online IDE and Terminal](https://www.tutorialspoint.com/codingground.htm) | Online IDE and Terminal
+[]() | 
+
 
 # PC
 Name | Description
