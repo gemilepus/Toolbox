@@ -25,3 +25,7 @@ Name | Description
 [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity
 [Simple Sticky Notes](https://www.simplestickynotes.com/) | Free Sticky Notes Software
 []() | 
+[HiddeX](http://dejavu.narod.ru/hiddex.html) | Tiny portable freeware application for Windows that can easily hide any window, program, browser or game in the background with one click or hotkey
+[MoonyDesk](https://tottsunta.blogspot.com/search/label/MoonyDesk) | MoonyDesk
+
+
