@@ -1,6 +1,6 @@
 # WorkTools
 
-Repository | Description
+Name | Description
 ---- | ----
 [Diagrams](https://app.diagrams.net/) | Graph drawing 
 [Photopea](https://www.photopea.com/) | Online Photo Editor
@@ -12,7 +12,7 @@ Repository | Description
 [ASCII Generator](http://www.network-science.de/) | Generate a ASCII graphic from a word or text
 
 # PC
-Repository | Description
+Name | Description
 ---- | ----
 [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) | ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 [DevToys](https://github.com/veler/DevToys) | A Swiss Army knife for developers
