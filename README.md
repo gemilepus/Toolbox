@@ -12,6 +12,13 @@ Name | Description
 [Color picker tool](https://developer.mozilla.org/zh-TW/docs/Web/CSS/CSS_Colors/Color_picker_tool) | Color picker 
 [Free Online IDE and Terminal](https://www.tutorialspoint.com/codingground.htm) | Online IDE and Terminal
 [Milkdown](https://github.com/Saul-Mirone/milkdown) | A plugin-driven WYSIWYG markdown Editor
+[Libraries.io](https://libraries.io/) | Libraries.io monitors 5,264,226 open source packages across 32 different package managers
+[Firefox Relay](https://relay.firefox.com/) | Firefox Relay⁩ makes it easy to create email aliases, aliases that forward to your real inbox
+[URL Decode and Encode](https://www.urldecoder.org/) | URL Decode and Encode
+[aes-encryption-decryption](https://www.devglan.com/online-tools/aes-encryption-decryption) | AES Encryption and Decryption Online Tool
+[mapstogpx.com](https://mapstogpx.com/mobiledev.php) | Maps to GPX Converter for location aware development
+[Material Icons](https://fonts.google.com/icons?selected=Material+Icons) | Material Icons
+[Cacoo](https://cacoo.com/) | create flowcharts, wireframes, network diagrams, org charts, and more.
 [いらすとや](https://www.irasutoya.com/) | いらすとやは季節のイベント・動物・子供などのかわいいイラストが沢山見つかるフリー素材サイトです。
 
 # PC
