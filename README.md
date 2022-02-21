@@ -11,6 +11,7 @@ Name | Description
 [ASCII Generator](http://www.network-science.de/) | Generate a ASCII graphic from a word or text
 [Color picker tool](https://developer.mozilla.org/zh-TW/docs/Web/CSS/CSS_Colors/Color_picker_tool) | Color picker 
 [Free Online IDE and Terminal](https://www.tutorialspoint.com/codingground.htm) | Online IDE and Terminal
+[editor.md](https://github.com/pandao/editor.md) | The open source embeddable online markdown editor (component)
 [Milkdown](https://github.com/Saul-Mirone/milkdown) | A plugin-driven WYSIWYG markdown Editor
 [Libraries.io](https://libraries.io/) | Libraries.io monitors 5,264,226 open source packages across 32 different package managers
 [Firefox Relay](https://relay.firefox.com/) | Firefox Relay⁩ makes it easy to create email aliases, aliases that forward to your real inbox
