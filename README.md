@@ -32,6 +32,7 @@ Name | Description
 [Simple Sticky Notes](https://www.simplestickynotes.com/) | Free Sticky Notes Software
 [HiddeX](http://dejavu.narod.ru/hiddex.html) | hide any window, program, browser or game in the background with one click or hotkey
 [MoonyDesk](https://tottsunta.blogspot.com/search/label/MoonyDesk) | clock and weather widgets
+[Locale-Emulator](https://github.com/xupefei/Locale-Emulator) | Yet Another System Region and Language Simulator
 []() | 
 
 
