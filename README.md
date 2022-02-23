@@ -1,5 +1,4 @@
-# WorkTools
-
+## Online
 Name | Description
 ---- | ----
 [Diagrams](https://app.diagrams.net/) | Graph drawing 
@@ -22,7 +21,7 @@ Name | Description
 [Cacoo](https://cacoo.com/) | create flowcharts, wireframes, network diagrams, org charts, and more.
 [いらすとや](https://www.irasutoya.com/) | いらすとやは季節のイベント・動物・子供などのかわいいイラストが沢山見つかるフリー素材サイトです。
 
-# PC
+## PC
 Name | Description
 ---- | ----
 [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) | ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
