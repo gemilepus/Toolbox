@@ -36,7 +36,9 @@ Name | Description
 [Simple Sticky Notes](https://www.simplestickynotes.com/) | Free Sticky Notes Software
 [HiddeX](http://dejavu.narod.ru/hiddex.html) | hide any window, program, browser or game in the background with one click or hotkey
 [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity
-[Sandboxie](https://github.com/sandboxie-plus/Sandboxie) | Sandboxie is a sandbox-based isolation software 
+[Sandboxie](https://github.com/sandboxie-plus/Sandboxie) | Sandboxie is a sandbox-based isolation software
+[Total Commander](https://www.ghisler.com/) | file manager for Windows
+[ActivePresenter](https://atomisystems.com/download/) | All-in-One Screen Recorder, Video Editor & eLearning Authoring Software
 [DevToys](https://github.com/veler/DevToys) | A Swiss Army knife for developers
 [MoonyDesk](https://tottsunta.blogspot.com/search/label/MoonyDesk) | clock and weather widgets
 [dnSpy](https://github.com/dnSpy/dnSpy) | .NET debugger and assembly editor
