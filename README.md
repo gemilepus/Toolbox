@@ -47,3 +47,6 @@ Name | Description
 [dnSpy](https://github.com/dnSpy/dnSpy) | .NET debugger and assembly editor
 [ImHex](https://github.com/WerWolv/ImHex) | A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 [Locale-Emulator](https://github.com/xupefei/Locale-Emulator) | Yet Another System Region and Language Simulator
+[Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) | shows you information about which handles and DLLs processes have opened or loaded.
+[Autoruns for Windows](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) | Simply run Autoruns and it shows you the currently configured auto-start applications as well as the full list of Registry and file system ...
+
