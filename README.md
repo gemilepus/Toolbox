@@ -49,4 +49,5 @@ Name | Description
 [Locale-Emulator](https://github.com/xupefei/Locale-Emulator) | Yet Another System Region and Language Simulator
 [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) | shows you information about which handles and DLLs processes have opened or loaded.
 [Autoruns for Windows](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) | Simply run Autoruns and it shows you the currently configured auto-start applications as well as the full list of Registry and file system ...
+[Files](https://github.com/files-community/Files) | A modern file manager for Windows
 
