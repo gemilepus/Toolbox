@@ -8,13 +8,15 @@ Name | Description
 [Photopea](https://www.photopea.com/) | Online Photo Editor
 [ASCII Generator](http://www.network-science.de/ascii/) | Generate a ASCII graphic from a word or text
 
-*Icon & Image*
+*Icon,Image,Color*
 Name | Description
 ---- | ----
 [Material Icons](https://fonts.google.com/icons?selected=Material+Icons) | Material Icons
 [Feather](https://feathericons.com/) | Simply beautiful open source icons
 [いらすとや](https://www.irasutoya.com/) | いらすとやは季節のイベント・動物・子供などのかわいいイラストが沢山見つかるフリー素材サイトです。
+[Pakutaso](https://www.pakutaso.com/) | 写真素材を無料でダウンロード
 [pngtree](https://pngtree.com) | Digital label, Vector Material, Ribbon Banners PNG and PSD File for Free Download
+[Adobe Color](https://color.adobe.com/) | Create color palettes with the color wheel or image
 [Color picker tool](https://developer.mozilla.org/zh-TW/docs/Web/CSS/CSS_Colors/Color_picker_tool) | Color picker tool
 
 *Code*
