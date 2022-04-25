@@ -37,7 +37,6 @@ Name | Description
 [Libraries.io](https://libraries.io/) | Libraries.io monitors 5,264,226 open source packages across 32 different package managers
 [Firefox Relay](https://relay.firefox.com/) | Firefox Relay⁩ makes it easy to create email aliases, aliases that forward to your real inbox
 [mapstogpx.com](https://mapstogpx.com/mobiledev.php) | Maps to GPX Converter for location aware development
-[Milkdown](https://github.com/Saul-Mirone/milkdown) | A plugin-driven WYSIWYG markdown Editor
 [CloudConvert ](https://cloudconvert.com/) | CloudConvert is an online file converter
 [BuiltWith Technology Lookup](https://builtwith.com/) | Find out what websites areBuilt With
 
