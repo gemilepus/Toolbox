@@ -55,19 +55,23 @@ Name | Description
 [Total Commander](https://www.ghisler.com/) | file manager for Windows
 [files-community/Files](https://github.com/files-community/Files) | A modern file manager for Windows
 
+*Video*
+Name | Description
+---- | ----
+[NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) | allows you to record a selected area of your screen, edit and save it as a gif or video.
+[ActivePresenter](https://atomisystems.com/download/) | All-in-One Screen Recorder, Video Editor & eLearning Authoring Software
+
 *Other*
 Name | Description
 ---- | ----
-[NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) | ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity
 [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) | Sandboxie is a sandbox-based isolation software
-[ActivePresenter](https://atomisystems.com/download/) | All-in-One Screen Recorder, Video Editor & eLearning Authoring Software
 [veler/DevToys](https://github.com/veler/DevToys) | A Swiss Army knife for developers
 [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) | .NET debugger and assembly editor
 [WerWolv/ImHex](https://github.com/WerWolv/ImHex) | A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 [xupefei/Locale-Emulator](https://github.com/xupefei/Locale-Emulator) | Yet Another System Region and Language Simulator
 [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) | shows you information about which handles and DLLs processes have opened or loaded.
-[Autoruns for Windows](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) | Simply run Autoruns and it shows you the currently configured auto-start applications as well as the full list of Registry and file system ...
+[Autoruns for Windows](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) | it shows you the currently configured auto-start applications as well as the full list of Registry and file system
 [Advanced Port Scanner](https://www.advanced-port-scanner.com/tw/) | find open ports on network computers and retrieve versions of programs running on the detected ports.
 
 
