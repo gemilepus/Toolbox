@@ -68,4 +68,6 @@ Name | Description
 [xupefei/Locale-Emulator](https://github.com/xupefei/Locale-Emulator) | Yet Another System Region and Language Simulator
 [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) | shows you information about which handles and DLLs processes have opened or loaded.
 [Autoruns for Windows](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) | Simply run Autoruns and it shows you the currently configured auto-start applications as well as the full list of Registry and file system ...
+[Advanced Port Scanner](https://www.advanced-port-scanner.com/tw/) | find open ports on network computers and retrieve versions of programs running on the detected ports.
+
 
