@@ -53,7 +53,6 @@ Name | Description
 [Simple Sticky Notes](https://www.simplestickynotes.com/) | Free Sticky Notes Software
 [HiddeX](http://dejavu.narod.ru/hiddex.html) | hide any window, program, browser or game in the background with one click or hotkey
 [MoonyDesk](https://tottsunta.blogspot.com/search/label/MoonyDesk) | clock and weather widgets
-[TinyTask](https://sites.google.com/view/tinytask/) | A tool which help you to record mouse click and Automate the activity by repeating it !
 
 *File manager*
 Name | Description
