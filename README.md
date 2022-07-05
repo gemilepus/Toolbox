@@ -82,5 +82,6 @@ Name | Description
 [xupefei/Locale-Emulator](https://github.com/xupefei/Locale-Emulator) | Yet Another System Region and Language Simulator
 [Autoruns for Windows](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) | it shows you the currently configured auto-start applications as well as the full list of Registry and file system
 [Advanced Port Scanner](https://www.advanced-port-scanner.com/tw/) | find open ports on network computers and retrieve versions of programs running on the detected ports.
-
+[qBittorrent](https://www.qbittorrent.org/) | The qBittorrent project aims to provide an open-source software alternative to µTorrent.
+[jagannatharjun/qbt-theme](https://github.com/jagannatharjun/qbt-theme) | collection of themes for qbittorrent
 
