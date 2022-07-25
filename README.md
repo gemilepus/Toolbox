@@ -67,6 +67,7 @@ Name | Description
 ---- | ----
 [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) | allows you to record a selected area of your screen, edit and save it as a gif or video.
 [ActivePresenter](https://atomisystems.com/download/) | All-in-One Screen Recorder, Video Editor & eLearning Authoring Software
+[MKVToolNix](https://mkvtoolnix.download/) | MKVToolNix is a collection of tools for the Matroska media container format by Moritz Bunkus including mkvmerge.
 
 *Development tools*
 Name | Description
@@ -86,4 +87,4 @@ Name | Description
 [Advanced Port Scanner](https://www.advanced-port-scanner.com/tw/) | find open ports on network computers and retrieve versions of programs running on the detected ports.
 [qBittorrent](https://www.qbittorrent.org/) | The qBittorrent project aims to provide an open-source software alternative to µTorrent.
 [jagannatharjun/qbt-theme](https://github.com/jagannatharjun/qbt-theme) | collection of themes for qbittorrent
-
+[API Monitor v2](http://www.rohitab.com/apimonitor) | API Monitor is a free software that lets you monitor and control API calls made by applications and services.
