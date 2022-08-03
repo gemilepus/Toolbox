@@ -92,3 +92,7 @@ Name | Description
 [qBittorrent](https://www.qbittorrent.org/) | The qBittorrent project aims to provide an open-source software alternative to µTorrent.
 [jagannatharjun/qbt-theme](https://github.com/jagannatharjun/qbt-theme) | collection of themes for qbittorrent
 [API Monitor v2](http://www.rohitab.com/apimonitor) | API Monitor is a free software that lets you monitor and control API calls made by applications and services.
+
+## #Android
+[Wake On Lan](https://play.google.com/store/apps/details?id=co.uk.mrwebb.wakeonlan&hl=zh_TW&gl=US) | Easily wake up computers from your phone/tablet!
+[Microsoft Remote Desktop](https://play.google.com/store/apps/details?id=com.microsoft.rdc.androidx&hl=zh_TW&gl=US) | for Android to connect to Azure Virtual Desktop, Windows 365, admin-provided virtual apps and desktops, or remote PCs. With Microsoft Remote Desktop, you can be productive no matter where you are.
