@@ -72,6 +72,7 @@ Name | Description
 [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) | allows you to record a selected area of your screen, edit and save it as a gif or video.
 [ActivePresenter](https://atomisystems.com/download/) | All-in-One Screen Recorder, Video Editor & eLearning Authoring Software
 [MKVToolNix](https://mkvtoolnix.download/) | MKVToolNix is a collection of tools for the Matroska media container format by Moritz Bunkus including mkvmerge.
+[SubtitleEdit](https://github.com/SubtitleEdit/subtitleedit) | the subtitle editor
 
 *Development tools*
 Name | Description
