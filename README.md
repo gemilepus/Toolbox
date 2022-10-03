@@ -6,7 +6,8 @@ Name | Description
 [Diagrams](https://app.diagrams.net/) | Graph drawing 
 [Cacoo](https://cacoo.com/) | create flowcharts, wireframes, network diagrams, org charts, and more.
 [Photopea](https://www.photopea.com/) | Online Photo Editor
-[ASCII Generator](http://www.network-science.de/ascii/) | Generate a ASCII graphic from a word or text
+[network-science/ASCII Generator](http://www.network-science.de/ascii/) | Generate a ASCII graphic from a word or text
+[ASCII-Generator](https://ascii-generator.site/) | Upload an image file to convert it to ASCII art
 
 *Icon,Image,Color*
 Name | Description
