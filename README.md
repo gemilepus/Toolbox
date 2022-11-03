@@ -94,11 +94,18 @@ Name | Description
 [qBittorrent](https://www.qbittorrent.org/) | The qBittorrent project aims to provide an open-source software alternative to µTorrent.
 [jagannatharjun/qbt-theme](https://github.com/jagannatharjun/qbt-theme) | collection of themes for qbittorrent
 [API Monitor v2](http://www.rohitab.com/apimonitor) | API Monitor is a free software that lets you monitor and control API calls made by applications and services.
-[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI
-[Nginx Proxy Manager](https://nginxproxymanager.com/) | This project comes as a pre-built docker image that enables you to easily forward to your websites running at home or otherwise
 
 ## #Android
 Name | Description
 ---- | ----
 [Wake On Lan](https://play.google.com/store/apps/details?id=co.uk.mrwebb.wakeonlan&hl=zh_TW&gl=US) | Easily wake up computers from your phone/tablet!
 [Microsoft Remote Desktop](https://play.google.com/store/apps/details?id=com.microsoft.rdc.androidx&hl=zh_TW&gl=US) | for Android to connect to Azure Virtual Desktop, Windows 365, admin-provided virtual apps and desktops, or remote PCs. With Microsoft Remote Desktop, you can be productive no matter where you are.
+
+## #Other
+
+**
+Name | Description
+---- | ----
+[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI
+[Nginx Proxy Manager](https://nginxproxymanager.com/) | This project comes as a pre-built docker image that enables you to easily forward to your websites running at home or otherwise
+[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | The communications platform that puts data protection first.
