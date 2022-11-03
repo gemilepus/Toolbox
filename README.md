@@ -94,6 +94,7 @@ Name | Description
 [qBittorrent](https://www.qbittorrent.org/) | The qBittorrent project aims to provide an open-source software alternative to µTorrent.
 [jagannatharjun/qbt-theme](https://github.com/jagannatharjun/qbt-theme) | collection of themes for qbittorrent
 [API Monitor v2](http://www.rohitab.com/apimonitor) | API Monitor is a free software that lets you monitor and control API calls made by applications and services.
+[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI
 
 ## #Android
 Name | Description
