@@ -95,6 +95,7 @@ Name | Description
 [jagannatharjun/qbt-theme](https://github.com/jagannatharjun/qbt-theme) | collection of themes for qbittorrent
 [API Monitor v2](http://www.rohitab.com/apimonitor) | API Monitor is a free software that lets you monitor and control API calls made by applications and services.
 [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI
+[Nginx Proxy Manager](https://nginxproxymanager.com/) | This project comes as a pre-built docker image that enables you to easily forward to your websites running at home or otherwise
 
 ## #Android
 Name | Description
