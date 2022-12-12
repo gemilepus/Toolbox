@@ -67,6 +67,11 @@ Name | Description
 [Total Commander](https://www.ghisler.com/) | file manager for Windows
 [files-community/Files](https://github.com/files-community/Files) | A modern file manager for Windows
 
+*Image*
+Name | Description
+---- | ----
+[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI
+
 *Video*
 Name | Description
 ---- | ----
@@ -106,6 +111,5 @@ Name | Description
 **
 Name | Description
 ---- | ----
-[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI
 [Nginx Proxy Manager](https://nginxproxymanager.com/) | This project comes as a pre-built docker image that enables you to easily forward to your websites running at home or otherwise
 [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | The communications platform that puts data protection first.
