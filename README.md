@@ -51,6 +51,7 @@ Name | Description
 [Firefox Relay](https://relay.firefox.com/) | Firefox Relay⁩ makes it easy to create email aliases, aliases that forward to your real inbox
 [NordVPN IP Lookup](https://nordvpn.com/zh-tw/ip-lookup/) | IP Lookup
 [A-Packets](https://apackets.com/) | Online pcap file analyzer
+[Stately](https://stately.ai/) | Stately is building tools to visualize your application logic using XState
 
 ## #Windows
 
