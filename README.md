@@ -115,3 +115,4 @@ Name | Description
 ---- | ----
 [Nginx Proxy Manager](https://nginxproxymanager.com/) | This project comes as a pre-built docker image that enables you to easily forward to your websites running at home or otherwise
 [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | The communications platform that puts data protection first.
+[doitsujin/dxvk](https://github.com/doitsujin/dxvk) | Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
