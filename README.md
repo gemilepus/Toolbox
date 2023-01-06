@@ -100,6 +100,7 @@ Name | Description
 [qBittorrent](https://www.qbittorrent.org/) | The qBittorrent project aims to provide an open-source software alternative to µTorrent.
 [jagannatharjun/qbt-theme](https://github.com/jagannatharjun/qbt-theme) | collection of themes for qbittorrent
 [API Monitor v2](http://www.rohitab.com/apimonitor) | API Monitor is a free software that lets you monitor and control API calls made by applications and services.
+[hasherezade/IAT_patcher](https://github.com/hasherezade/IAT_patcher) | Persistent IAT hooking application - based on bearparser
 
 ## #Android
 Name | Description
