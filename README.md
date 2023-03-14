@@ -23,6 +23,7 @@ Name | Description
 [Adobe Color](https://color.adobe.com/) | Create color palettes with the color wheel or image
 [Color picker tool](https://developer.mozilla.org/zh-TW/docs/Web/CSS/CSS_Colors/Color_picker_tool) | Color picker tool
 [NIPPON COLORS](https://nipponcolors.com/) | The Traditional Colors of Nippon (Japan)
+[visualpharm](https://www.visualpharm.com/) | Free SVG Icons with super-fast search and free Coke. Built for fun by Icons8.
 
 *File converter*
 Name | Description
