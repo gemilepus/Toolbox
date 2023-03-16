@@ -112,3 +112,4 @@ Name | Description
 [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | The communications platform that puts data protection first.
 [doitsujin/dxvk](https://github.com/doitsujin/dxvk) | Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
 [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI
+[Milkdown/milkdown](https://github.com/Milkdown/milkdown) | 🍼 Plugin driven WYSIWYG markdown editor framework.
