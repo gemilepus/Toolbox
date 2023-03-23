@@ -85,6 +85,8 @@ Name | Description
 [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity
 [WerWolv/ImHex](https://github.com/WerWolv/ImHex) | A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) | shows you information about which handles and DLLs processes have opened or loaded.
+[API Monitor v2](http://www.rohitab.com/apimonitor) | API Monitor is a free software that lets you monitor and control API calls made by applications and services.
+[hasherezade/IAT_patcher](https://github.com/hasherezade/IAT_patcher) | Persistent IAT hooking application - based on bearparser
 
 *Other*
 Name | Description
@@ -94,8 +96,7 @@ Name | Description
 [Autoruns for Windows](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) | it shows you the currently configured auto-start applications as well as the full list of Registry and file system
 [Advanced Port Scanner](https://www.advanced-port-scanner.com/tw/) | find open ports on network computers and retrieve versions of programs running on the detected ports.
 [qBittorrent](https://www.qbittorrent.org/) | The qBittorrent project aims to provide an open-source software alternative to µTorrent.
-[API Monitor v2](http://www.rohitab.com/apimonitor) | API Monitor is a free software that lets you monitor and control API calls made by applications and services.
-[hasherezade/IAT_patcher](https://github.com/hasherezade/IAT_patcher) | Persistent IAT hooking application - based on bearparser
+[gemilepus/Scriptboxie](https://github.com/gemilepus/Scriptboxie) | Scriptboxie allows you to easily control and create scripts, similar to some mouse macros.
 
 ## #Android
 Name | Description
