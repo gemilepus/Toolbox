@@ -15,6 +15,7 @@ Name | Description
 [:sparkles: Unsplash](https://unsplash.com/) | Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.
 [Material Icons](https://fonts.google.com/icons?selected=Material+Icons) | Material Icons
 [Feather](https://feathericons.com/) | Simply beautiful open source icons
+[Font Awesome]([https://fontawesome.com/](https://fontawesome.com/v5/search?o=r&m=free)) | Font Awesome is the Internet's icon library and toolkit, used by millions of designers, developers, and content creators.
 [いらすとや](https://www.irasutoya.com/) | いらすとやは季節のイベント・動物・子供などのかわいいイラストが沢山見つかるフリー素材サイトです。
 [Pakutaso](https://www.pakutaso.com/) | 写真素材を無料でダウンロード
 [Pixabay](https://pixabay.com/) | Pixabay is a vibrant community of creatives, sharing copyright free images, videos and music. All contents are released under the Pixabay License
