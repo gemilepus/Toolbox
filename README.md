@@ -63,6 +63,8 @@ Name | Description
 [:sparkles: Simple Sticky Notes](https://www.simplestickynotes.com/) | Free Sticky Notes Software
 [HiddeX](http://dejavu.narod.ru/hiddex.html) | hide any window, program, browser or game in the background with one click or hotkey
 [MoonyDesk](https://tottsunta.blogspot.com/search/label/MoonyDesk) | clock and weather widgets
+[microsoft/PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity
+[TheJoeFin/Text-Grab](https://github.com/TheJoeFin/Text-Grab) | Use OCR in Windows quickly and easily with Text Grab. With optional background process and popups.
 
 *File manager*
 Name | Description
@@ -83,7 +85,6 @@ Name | Description
 ---- | ----
 [veler/DevToys](https://github.com/veler/DevToys) | A Swiss Army knife for developers
 [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) | .NET debugger and assembly editor
-[microsoft/PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity
 [WerWolv/ImHex](https://github.com/WerWolv/ImHex) | A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) | shows you information about which handles and DLLs processes have opened or loaded.
 [API Monitor v2](http://www.rohitab.com/apimonitor) | API Monitor is a free software that lets you monitor and control API calls made by applications and services.
