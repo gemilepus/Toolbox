@@ -91,6 +91,7 @@ Name | Description
 [API Monitor v2](http://www.rohitab.com/apimonitor) | API Monitor is a free software that lets you monitor and control API calls made by applications and services.
 [hasherezade/IAT_patcher](https://github.com/hasherezade/IAT_patcher) | Persistent IAT hooking application - based on bearparser
 [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) | Sandboxie is a sandbox-based isolation software
+[Boomerang-SOAP & REST Client](https://chromewebstore.google.com/detail/boomerang-soap-rest-clien/eipdnjedkpcnlmmdfdkgfpljanehloah?pli=1) | Seamlessly integrate and test SOAP & REST services.
 
 *Other*
 Name | Description
@@ -117,5 +118,6 @@ Name | Description
 [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) | A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 [prasathmani/tinyfilemanager](https://github.com/prasathmani/tinyfilemanager) | Single-file PHP file manager, browser and manage your files efficiently and easily with tinyfilemanager
 [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) | A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
+[phpMyAdmin](https://www.phpmyadmin.net/) | phpMyAdmin is a free software tool written in PHP, intended to handle the administration of MySQL over the Web
 
 
