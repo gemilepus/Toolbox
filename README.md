@@ -47,6 +47,8 @@ Name | Description
 [BuiltWith Technology Lookup](https://builtwith.com/) | Find out what websites areBuilt With
 [compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) | Run compilers interactively from your web browser and interact with the assembly
 [startbootstrap.com](https://startbootstrap.com/themes) | Bootstrap Templates & Themes
+[Figma](https://www.figma.com/) | Figma is the leading collaborative design tool for building meaningful products. Seamlessly design, prototype, develop, and collect feedback in a single ...
+
 
 *Other*
 Name | Description
