@@ -108,8 +108,9 @@ Name | Description
 ## #Android
 Name | Description
 ---- | ----
-[Wake On Lan](https://play.google.com/store/apps/details?id=co.uk.mrwebb.wakeonlan&hl=zh_TW&gl=US) | Easily wake up computers from your phone/tablet!
-[Microsoft Remote Desktop](https://play.google.com/store/apps/details?id=com.microsoft.rdc.androidx&hl=zh_TW&gl=US) | for Android to connect to Azure Virtual Desktop, Windows 365, admin-provided virtual apps and desktops, or remote PCs. With Microsoft Remote Desktop, you can be productive no matter where you are.
+[Wake On Lan](https://play.google.com/store/apps/details?id=co.uk.mrwebb.wakeonlanS) | Easily wake up computers from your phone/tablet!
+[Microsoft Remote Desktop](https://play.google.com/store/apps/details?id=com.microsoft.rdc.androidx) | for Android to connect to Azure Virtual Desktop, Windows 365, admin-provided virtual apps and desktops, or remote PCs. With Microsoft Remote Desktop, you can be productive no matter where you are.
+[CapCut](https://play.google.com/store/apps/details?id=com.lemon.lvoverseas) | Video Editor
 
 ## #Web system
 Name | Description
