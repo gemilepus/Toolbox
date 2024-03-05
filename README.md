@@ -6,6 +6,7 @@ Name | Description
 [:sparkles: Diagrams](https://app.diagrams.net/) | Graph drawing 
 [Cacoo](https://cacoo.com/) | create flowcharts, wireframes, network diagrams, org charts, and more.
 [Photopea](https://www.photopea.com/) | Online Photo Editor
+[Figma](https://www.figma.com/) | Figma is the leading collaborative design tool for building meaningful products. Seamlessly design, prototype, develop, and collect feedback in a single ...
 [network-science/ASCII Generator](http://www.network-science.de/ascii/) | Generate a ASCII graphic from a word or text
 [ASCII-Generator](https://ascii-generator.site/) | Upload an image file to convert it to ASCII art
 
@@ -47,7 +48,6 @@ Name | Description
 [BuiltWith Technology Lookup](https://builtwith.com/) | Find out what websites areBuilt With
 [compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) | Run compilers interactively from your web browser and interact with the assembly
 [startbootstrap.com](https://startbootstrap.com/themes) | Bootstrap Templates & Themes
-[Figma](https://www.figma.com/) | Figma is the leading collaborative design tool for building meaningful products. Seamlessly design, prototype, develop, and collect feedback in a single ...
 
 
 *Other*
