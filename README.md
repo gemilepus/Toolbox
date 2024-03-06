@@ -3,20 +3,20 @@
 *Graph drawing,Photo Editor*
 Name | Description
 ---- | ----
-[:sparkles: Diagrams](https://app.diagrams.net/) | Graph drawing 
-[Cacoo](https://cacoo.com/) | create flowcharts, wireframes, network diagrams, org charts, and more.
-[Photopea](https://www.photopea.com/) | Online Photo Editor
+[Diagrams :sparkles:](https://app.diagrams.net/) | Graph drawing 
 [Figma](https://www.figma.com/) | Figma is the leading collaborative design tool for building meaningful products. Seamlessly design, prototype, develop, and collect feedback in a single ...
+[Photopea](https://www.photopea.com/) | Online Photo Editor
+[Cacoo](https://cacoo.com/) | create flowcharts, wireframes, network diagrams, org charts, and more.
 [network-science/ASCII Generator](http://www.network-science.de/ascii/) | Generate a ASCII graphic from a word or text
 [ASCII-Generator](https://ascii-generator.site/) | Upload an image file to convert it to ASCII art
 
 *Icon,Image,Color*
 Name | Description
 ---- | ----
-[:sparkles: Unsplash](https://unsplash.com/) | Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.
+[Unsplash :sparkles:](https://unsplash.com/) | Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.
+[Font Awesome](https://fontawesome.com/v5/search?o=r&m=free) | Font Awesome is the Internet's icon library and toolkit, used by millions of designers, developers, and content creators.
 [Material Icons](https://fonts.google.com/icons?selected=Material+Icons) | Material Icons
 [Feather](https://feathericons.com/) | Simply beautiful open source icons
-[Font Awesome](https://fontawesome.com/v5/search?o=r&m=free) | Font Awesome is the Internet's icon library and toolkit, used by millions of designers, developers, and content creators.
 [いらすとや](https://www.irasutoya.com/) | いらすとやは季節のイベント・動物・子供などのかわいいイラストが沢山見つかるフリー素材サイトです。
 [Pakutaso](https://www.pakutaso.com/) | 写真素材を無料でダウンロード
 [Pixabay](https://pixabay.com/) | Pixabay is a vibrant community of creatives, sharing copyright free images, videos and music. All contents are released under the Pixabay License
@@ -30,7 +30,7 @@ Name | Description
 *File converter*
 Name | Description
 ---- | ----
-[CloudConvert ](https://cloudconvert.com/) | CloudConvert is an online file converter
+[CloudConvert](https://cloudconvert.com/) | CloudConvert is an online file converter
 [aspose.app](https://www.aspose.app/) | File Format Apps
 
 *Development tools*
@@ -63,7 +63,7 @@ Name | Description
 *Widgets*
 Name | Description
 ---- | ----
-[:sparkles: Simple Sticky Notes](https://www.simplestickynotes.com/) | Free Sticky Notes Software
+[Simple Sticky Notes :sparkles:](https://www.simplestickynotes.com/) | Free Sticky Notes Software
 [HiddeX](http://dejavu.narod.ru/hiddex.html) | hide any window, program, browser or game in the background with one click or hotkey
 [MoonyDesk](https://tottsunta.blogspot.com/search/label/MoonyDesk) | clock and weather widgets
 [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity
@@ -72,13 +72,13 @@ Name | Description
 *File manager*
 Name | Description
 ---- | ----
-[Total Commander](https://www.ghisler.com/) | file manager for Windows
+[Total Commander :sparkles:](https://www.ghisler.com/) | file manager for Windows
 [files-community/Files](https://github.com/files-community/Files) | A modern file manager for Windows
 
 *Video*
 Name | Description
 ---- | ----
-[:sparkles: NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) | allows you to record a selected area of your screen, edit and save it as a gif or video.
+[NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) | allows you to record a selected area of your screen, edit and save it as a gif or video.
 [ActivePresenter](https://atomisystems.com/download/) | All-in-One Screen Recorder, Video Editor & eLearning Authoring Software
 [MKVToolNix](https://mkvtoolnix.download/) | MKVToolNix is a collection of tools for the Matroska media container format by Moritz Bunkus including mkvmerge.
 [SubtitleEdit](https://github.com/SubtitleEdit/subtitleedit) | the subtitle editor
