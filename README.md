@@ -94,6 +94,7 @@ Name | Description
 [hasherezade/IAT_patcher](https://github.com/hasherezade/IAT_patcher) | Persistent IAT hooking application - based on bearparser
 [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) | Sandboxie is a sandbox-based isolation software
 [Boomerang-SOAP & REST Client](https://chromewebstore.google.com/detail/boomerang-soap-rest-clien/eipdnjedkpcnlmmdfdkgfpljanehloah?pli=1) | Seamlessly integrate and test SOAP & REST services.
+[icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) | .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 
 *Other*
 Name | Description
