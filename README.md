@@ -64,6 +64,7 @@ Name | Description
 Name | Description
 ---- | ----
 [Simple Sticky Notes :sparkles:](https://www.simplestickynotes.com/) | Free Sticky Notes Software
+[gemilepus/Scriptboxie](https://github.com/gemilepus/Scriptboxie) | Scriptboxie allows you to easily control and create scripts, similar to some mouse macros.
 [HiddeX](http://dejavu.narod.ru/hiddex.html) | hide any window, program, browser or game in the background with one click or hotkey
 [MoonyDesk](https://tottsunta.blogspot.com/search/label/MoonyDesk) | clock and weather widgets
 [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity
@@ -93,17 +94,22 @@ Name | Description
 [API Monitor v2](http://www.rohitab.com/apimonitor) | API Monitor is a free software that lets you monitor and control API calls made by applications and services.
 [hasherezade/IAT_patcher](https://github.com/hasherezade/IAT_patcher) | Persistent IAT hooking application - based on bearparser
 [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) | Sandboxie is a sandbox-based isolation software
-[Boomerang-SOAP & REST Client](https://chromewebstore.google.com/detail/boomerang-soap-rest-clien/eipdnjedkpcnlmmdfdkgfpljanehloah?pli=1) | Seamlessly integrate and test SOAP & REST services.
 [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) | .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
+[winsiderss/systeminf](https://github.com/winsiderss/systeminformer) | A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc.
+
+*network*
+Name | Description
+---- | ----
+[mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) | mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
+[Advanced Port Scanner](https://www.advanced-port-scanner.com/tw/) | find open ports on network computers and retrieve versions of programs running on the detected ports.
+[Boomerang-SOAP & REST Client](https://chromewebstore.google.com/detail/boomerang-soap-rest-clien/eipdnjedkpcnlmmdfdkgfpljanehloah?pli=1) | Seamlessly integrate and test SOAP & REST services.
 
 *Other*
 Name | Description
 ---- | ----
 [xupefei/Locale-Emulator](https://github.com/xupefei/Locale-Emulator) | Yet Another System Region and Language Simulator
 [Autoruns for Windows](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) | it shows you the currently configured auto-start applications as well as the full list of Registry and file system
-[Advanced Port Scanner](https://www.advanced-port-scanner.com/tw/) | find open ports on network computers and retrieve versions of programs running on the detected ports.
 [qBittorrent](https://www.qbittorrent.org/) | The qBittorrent project aims to provide an open-source software alternative to µTorrent.
-[gemilepus/Scriptboxie](https://github.com/gemilepus/Scriptboxie) | Scriptboxie allows you to easily control and create scripts, similar to some mouse macros.
 [doitsujin/dxvk](https://github.com/doitsujin/dxvk) | Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
 
 ## #Android
