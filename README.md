@@ -64,7 +64,7 @@ Name | Description
 Name | Description
 ---- | ----
 [Simple Sticky Notes :sparkles:](https://www.simplestickynotes.com/) | Free Sticky Notes Software
-[gemilepus/Scriptboxie](https://github.com/gemilepus/Scriptboxie) | Scriptboxie allows you to easily control and create scripts, similar to some mouse macros.
+[gemilepus/Scriptboxie](https://github.com/gemilepus/Scriptboxie) | Scriptboxie allows you to effortlessly manage and craft scripts. Can be used to streamline repetitive and time-consuming tasks.
 [HiddeX](http://dejavu.narod.ru/hiddex.html) | hide any window, program, browser or game in the background with one click or hotkey
 [MoonyDesk](https://tottsunta.blogspot.com/search/label/MoonyDesk) | clock and weather widgets
 [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity
