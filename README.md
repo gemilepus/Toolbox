@@ -20,22 +20,27 @@ Name | Type | Description
 [Stately](https://stately.ai/) | Online | Stately is building tools to visualize your application logic using XState
 [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Web system | Stable Diffusion web UI
 
-*Icon,Image,Color*
+*Icon,Image*
 Name | Type | Description
 ---- | ---- | ----
 [Unsplash :sparkles:](https://unsplash.com/) | Online | Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.
 [Font Awesome](https://fontawesome.com/v5/search?o=r&m=free) | Online | Font Awesome is the Internet's icon library and toolkit, used by millions of designers, developers, and content creators.
-[Material Icons](https://fonts.google.com/icons?selected=Material+Icons) | Online | Material Icons
-[Feather](https://feathericons.com/) | Online | Simply beautiful open source icons
 [いらすとや](https://www.irasutoya.com/) | Online | いらすとやは季節のイベント・動物・子供などのかわいいイラストが沢山見つかるフリー素材サイトです。
 [Pakutaso](https://www.pakutaso.com/) | Online | 写真素材を無料でダウンロード
 [Pixabay](https://pixabay.com/) | Online | Pixabay is a vibrant community of creatives, sharing copyright free images, videos and music. All contents are released under the Pixabay License
 [illustAC](https://www.ac-illust.com/) | Online | おしゃれでかわいい無料イラスト
 [pngtree](https://pngtree.com) | Online | Digital label, Vector Material, Ribbon Banners PNG and PSD File for Free Download
+[visualpharm](https://www.visualpharm.com/) | Online | Free SVG Icons with super-fast search and free Coke. Built for fun by Icons8.
+[piliapp emoji](https://tw.piliapp.com/emoji/list/) | Online | emoji
+[Material Icons](https://fonts.google.com/icons?selected=Material+Icons) | Online | Material Icons
+[Feather](https://feathericons.com/) | Online | Simply beautiful open source icons
+
+*Color*
+Name | Type | Description
+---- | ---- | ----
 [Adobe Color](https://color.adobe.com/) | Online | Create color palettes with the color wheel or image
 [Color picker tool](https://developer.mozilla.org/zh-TW/docs/Web/CSS/CSS_Colors/Color_picker_tool) | Online | Color picker tool
 [NIPPON COLORS](https://nipponcolors.com/) | Online | The Traditional Colors of Nippon (Japan)
-[visualpharm](https://www.visualpharm.com/) | Online | Free SVG Icons with super-fast search and free Coke. Built for fun by Icons8.
 
 *File*
 Name | ---- | Description
@@ -59,13 +64,14 @@ Name | Type | Description
 *Development*
 Name | Type | Description
 ---- | ---- | ----
+[MDN Web Docs](https://developer.mozilla.org/en-US/) | Online | Documenting web technologies, including CSS, HTML, and JavaScript, since 2005.
+[Can I use...](https://caniuse.com/) | Online | Support tables for HTML5, CSS3, etc
 [PLAYCODE](https://playcode.io/) | Online | javascript playground with instant live preview and console
 [Free Online IDE and Terminal](https://www.tutorialspoint.com/codingground.htm) | Online | Online IDE and Terminal
 [Code Beautify](https://codebeautify.org/) | Online | JSON Beautifier, XML Viewer, JSON Converters, Hex Converters and More..
 [URL Decode and Encode](https://www.urldecoder.org/) | Online | URL Decode and Encode
 [JSON Formatter & Validator](https://jsonformatter.curiousconcept.com/) | Online | JSON Formatter & Validator
 [aes-encryption-decryption](https://www.devglan.com/online-tools/aes-encryption-decryption) | Online | AES Encryption and Decryption Online Tool
-[Can I use...](https://caniuse.com/) | Online | Support tables for HTML5, CSS3, etc
 [Libraries.io](https://libraries.io/) | Online | Libraries.io monitors 5,264,226 open source packages across 32 different package managers
 [BuiltWith Technology Lookup](https://builtwith.com/) | Online | Find out what websites areBuilt With
 [editor.md](https://github.com/pandao/editor.md) | Online | The open source embeddable online markdown editor (component)
@@ -113,5 +119,6 @@ Name | Type | Description
 [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | Web system | The communications platform that puts data protection first.
 [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) | Web system | A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
 [Firefox Relay](https://relay.firefox.com/) | Online | Firefox Relay⁩ makes it easy to create email aliases, aliases that forward to your real inbox
+[nyan のアプリ開発](https://akira-watson.com/) | Online | Android アプリを作る
 
 
