@@ -12,6 +12,7 @@ Name | Type | Description
 ---- | ---- | ----
 [gemilepus/Scriptboxie](https://github.com/gemilepus/Scriptboxie) | Windows | Scriptboxie allows you to effortlessly manage and craft scripts. Can be used to streamline repetitive and time-consuming tasks.
 [Tampermonkey](https://www.tampermonkey.net/)  | Windows | It allows its users to customize and enhance the functionality of your favorite web pages
+[MacroDroid](https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid&hl=zh_TW&gl=US) | Android | Device Automation
 
 *Graph drawing,Photo Editor*
 Name | Type | Description
