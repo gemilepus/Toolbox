@@ -2,11 +2,16 @@
 Name | Type | Description
 ---- | ---- | ----
 [Simple Sticky Notes :sparkles:](https://www.simplestickynotes.com/) | Windows | Free Sticky Notes Software
-[gemilepus/Scriptboxie](https://github.com/gemilepus/Scriptboxie) | Windows | Scriptboxie allows you to effortlessly manage and craft scripts. Can be used to streamline repetitive and time-consuming tasks.
 [HiddeX](http://dejavu.narod.ru/hiddex.html) | Windows | hide any window, program, browser or game in the background with one click or hotkey
 [MoonyDesk](https://tottsunta.blogspot.com/search/label/MoonyDesk) | Windows | clock and weather widgets
 [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | Windows | Windows system utilities to maximize productivity
 [TheJoeFin/Text-Grab](https://github.com/TheJoeFin/Text-Grab) | Windows | Use OCR in Windows quickly and easily with Text Grab. With optional background process and popups.
+
+*Script*
+Name | Type | Description
+---- | ---- | ----
+[gemilepus/Scriptboxie](https://github.com/gemilepus/Scriptboxie) | Windows | Scriptboxie allows you to effortlessly manage and craft scripts. Can be used to streamline repetitive and time-consuming tasks.
+[Tampermonkey](https://www.tampermonkey.net/)  | Windows | It allows its users to customize and enhance the functionality of your favorite web pages
 
 *Graph drawing,Photo Editor*
 Name | Type | Description
