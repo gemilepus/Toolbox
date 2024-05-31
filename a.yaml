@@ -1,0 +1,387 @@
+openapi: 3.0.1
+info:
+  title: NTPC OpenData API
+  description: ''
+  version: v1
+servers:
+  - url: https://data.ntpc.gov.tw
+    description: Generated server url
+paths:
+  /api/datasets/4a03827a-588b-4058-ab21-ec02283e2bb7/csv:
+    get:
+      tags:
+        - CSV
+      summary: 新北市政府公報閱覽地點
+      description: 新北市政府公報出版品實體刊物於新北市各轄區圖書館閱覽室及特定公眾圖書館閱覽室提供閱覽。</br>
+      operationId: get_4a03827a_588b_4058_ab21_ec02283e2bb7_csv
+      parameters:
+        - name: page
+          in: query
+          description: 頁碼(0..N)
+          schema:
+            type: integer
+            default: 0
+        - name: size
+          in: query
+          description: 每頁筆數
+          schema:
+            type: integer
+            default: 100
+      responses:
+        '200':
+          - description: success
+            content:
+              text/csv;charset=UTF-8: []
+  /api/datasets/4a03827a-588b-4058-ab21-ec02283e2bb7/json:
+    get:
+      tags:
+        - JSON
+      summary: 新北市政府公報閱覽地點
+      description: 新北市政府公報出版品實體刊物於新北市各轄區圖書館閱覽室及特定公眾圖書館閱覽室提供閱覽。</br>
+      operationId: get_4a03827a_588b_4058_ab21_ec02283e2bb7_json
+      parameters:
+        - name: page
+          in: query
+          description: 頁碼(0..N)
+          schema:
+            type: integer
+            default: 0
+        - name: size
+          in: query
+          description: 每頁筆數
+          schema:
+            type: integer
+            default: 100
+      responses:
+        '200':
+          description: success
+          content:
+            application/json: []
+  /api/datasets/4a03827a-588b-4058-ab21-ec02283e2bb7/xml:
+    get:
+      tags:
+        - XML
+      summary: 新北市政府公報閱覽地點
+      description: 新北市政府公報出版品實體刊物於新北市各轄區圖書館閱覽室及特定公眾圖書館閱覽室提供閱覽。</br>
+      operationId: get_4a03827a_588b_4058_ab21_ec02283e2bb7_xml
+      parameters:
+        - name: page
+          in: query
+          description: 頁碼(0..N)
+          schema:
+            type: integer
+            default: 0
+        - name: size
+          in: query
+          description: 每頁筆數
+          schema:
+            type: integer
+            default: 100
+      responses:
+        '200':
+          - description: success
+            content:
+              application/xml: []
+  /api/datasets/b39ee3e2-0951-47d4-9cef-4e646c549317/csv:
+    get:
+      tags:
+        - CSV
+      summary: 新北市政府姐妹市交流概況
+      description: >-
+        提供本市歷年與各國城市締結為姐妹市之交流概況</br>102年10月31日新增姐妹市資一筆108年11月4日各新增一筆及刪除一筆112年3月31日再新增一筆</br>
+      operationId: get_b39ee3e2_0951_47d4_9cef_4e646c549317_csv
+      parameters:
+        - name: page
+          in: query
+          description: 頁碼(0..N)
+          schema:
+            type: integer
+            default: 0
+        - name: size
+          in: query
+          description: 每頁筆數
+          schema:
+            type: integer
+            default: 100
+      responses:
+        '200':
+          - description: success
+            content:
+              text/csv;charset=UTF-8: []
+  /api/datasets/b39ee3e2-0951-47d4-9cef-4e646c549317/json:
+    get:
+      tags:
+        - JSON
+      summary: 新北市政府姐妹市交流概況
+      description: >-
+        提供本市歷年與各國城市締結為姐妹市之交流概況</br>102年10月31日新增姐妹市資一筆108年11月4日各新增一筆及刪除一筆112年3月31日再新增一筆</br>
+      operationId: get_b39ee3e2_0951_47d4_9cef_4e646c549317_json
+      parameters:
+        - name: page
+          in: query
+          description: 頁碼(0..N)
+          schema:
+            type: integer
+            default: 0
+        - name: size
+          in: query
+          description: 每頁筆數
+          schema:
+            type: integer
+            default: 100
+      responses:
+        '200':
+          description: success
+          content:
+            application/json: []
+  /api/datasets/b39ee3e2-0951-47d4-9cef-4e646c549317/xml:
+    get:
+      tags:
+        - XML
+      summary: 新北市政府姐妹市交流概況
+      description: >-
+        提供本市歷年與各國城市締結為姐妹市之交流概況</br>102年10月31日新增姐妹市資一筆108年11月4日各新增一筆及刪除一筆112年3月31日再新增一筆</br>
+      operationId: get_b39ee3e2_0951_47d4_9cef_4e646c549317_xml
+      parameters:
+        - name: page
+          in: query
+          description: 頁碼(0..N)
+          schema:
+            type: integer
+            default: 0
+        - name: size
+          in: query
+          description: 每頁筆數
+          schema:
+            type: integer
+            default: 100
+      responses:
+        '200':
+          - description: success
+            content:
+              application/xml: []
+  /api/datasets/818e1d1f-f1f2-4170-9b07-6ba1babed305/csv:
+    get:
+      tags:
+        - CSV
+      summary: 新北市政府檔案閱覽抄錄複製收費標準
+      description: "為落實資訊公開，提供優質檔案應用服務，並兼顧檔案安全之維護。</br>\r\n102年10月31日修正說明檔案"
+      operationId: get_818e1d1f_f1f2_4170_9b07_6ba1babed305_csv
+      parameters:
+        - name: page
+          in: query
+          description: 頁碼(0..N)
+          schema:
+            type: integer
+            default: 0
+        - name: size
+          in: query
+          description: 每頁筆數
+          schema:
+            type: integer
+            default: 100
+      responses:
+        '200':
+          - description: success
+            content:
+              text/csv;charset=UTF-8: []
+  /api/datasets/818e1d1f-f1f2-4170-9b07-6ba1babed305/json:
+    get:
+      tags:
+        - JSON
+      summary: 新北市政府檔案閱覽抄錄複製收費標準
+      description: "為落實資訊公開，提供優質檔案應用服務，並兼顧檔案安全之維護。</br>\r\n102年10月31日修正說明檔案"
+      operationId: get_818e1d1f_f1f2_4170_9b07_6ba1babed305_json
+      parameters:
+        - name: page
+          in: query
+          description: 頁碼(0..N)
+          schema:
+            type: integer
+            default: 0
+        - name: size
+          in: query
+          description: 每頁筆數
+          schema:
+            type: integer
+            default: 100
+      responses:
+        '200':
+          description: success
+          content:
+            application/json: []
+  /api/datasets/818e1d1f-f1f2-4170-9b07-6ba1babed305/xml:
+    get:
+      tags:
+        - XML
+      summary: 新北市政府檔案閱覽抄錄複製收費標準
+      description: "為落實資訊公開，提供優質檔案應用服務，並兼顧檔案安全之維護。</br>\r\n102年10月31日修正說明檔案"
+      operationId: get_818e1d1f_f1f2_4170_9b07_6ba1babed305_xml
+      parameters:
+        - name: page
+          in: query
+          description: 頁碼(0..N)
+          schema:
+            type: integer
+            default: 0
+        - name: size
+          in: query
+          description: 每頁筆數
+          schema:
+            type: integer
+            default: 100
+      responses:
+        '200':
+          - description: success
+            content:
+              application/xml: []
+  /api/datasets/e3fffcab-4de7-4dcf-919b-337cc9b45a48/csv:
+    get:
+      tags:
+        - CSV
+      summary: 新北市政府行政園區會場資訊及收費標準
+      description: "為提升會場租借使用率及為民服務滿意度，除提供新北市政府行政大樓會場租借資訊外，另新增場地收費標準資訊。\r\n原「新北市政府行政園區會場資訊」資料開放項目下架。"
+      operationId: get_e3fffcab_4de7_4dcf_919b_337cc9b45a48_csv
+      parameters:
+        - name: page
+          in: query
+          description: 頁碼(0..N)
+          schema:
+            type: integer
+            default: 0
+        - name: size
+          in: query
+          description: 每頁筆數
+          schema:
+            type: integer
+            default: 100
+      responses:
+        '200':
+          - description: success
+            content:
+              text/csv;charset=UTF-8: []
+  /api/datasets/e3fffcab-4de7-4dcf-919b-337cc9b45a48/json:
+    get:
+      tags:
+        - JSON
+      summary: 新北市政府行政園區會場資訊及收費標準
+      description: "為提升會場租借使用率及為民服務滿意度，除提供新北市政府行政大樓會場租借資訊外，另新增場地收費標準資訊。\r\n原「新北市政府行政園區會場資訊」資料開放項目下架。"
+      operationId: get_e3fffcab_4de7_4dcf_919b_337cc9b45a48_json
+      parameters:
+        - name: page
+          in: query
+          description: 頁碼(0..N)
+          schema:
+            type: integer
+            default: 0
+        - name: size
+          in: query
+          description: 每頁筆數
+          schema:
+            type: integer
+            default: 100
+      responses:
+        '200':
+          description: success
+          content:
+            application/json: []
+  /api/datasets/e3fffcab-4de7-4dcf-919b-337cc9b45a48/xml:
+    get:
+      tags:
+        - XML
+      summary: 新北市政府行政園區會場資訊及收費標準
+      description: "為提升會場租借使用率及為民服務滿意度，除提供新北市政府行政大樓會場租借資訊外，另新增場地收費標準資訊。\r\n原「新北市政府行政園區會場資訊」資料開放項目下架。"
+      operationId: get_e3fffcab_4de7_4dcf_919b_337cc9b45a48_xml
+      parameters:
+        - name: page
+          in: query
+          description: 頁碼(0..N)
+          schema:
+            type: integer
+            default: 0
+        - name: size
+          in: query
+          description: 每頁筆數
+          schema:
+            type: integer
+            default: 100
+      responses:
+        '200':
+          - description: success
+            content:
+              application/xml: []
+  /api/datasets/c3ffc733-c2e3-42c6-9c14-cddddf3d2aec/csv:
+    get:
+      tags:
+        - CSV
+      summary: 新北市政府行政大樓導覽
+      description: 讓您了解市政大樓的樓層辦公分布
+      operationId: get_c3ffc733_c2e3_42c6_9c14_cddddf3d2aec_csv
+      parameters:
+        - name: page
+          in: query
+          description: 頁碼(0..N)
+          schema:
+            type: integer
+            default: 0
+        - name: size
+          in: query
+          description: 每頁筆數
+          schema:
+            type: integer
+            default: 100
+      responses:
+        '200':
+          - description: success
+            content:
+              text/csv;charset=UTF-8: []
+  /api/datasets/c3ffc733-c2e3-42c6-9c14-cddddf3d2aec/json:
+    get:
+      tags:
+        - JSON
+      summary: 新北市政府行政大樓導覽
+      description: 讓您了解市政大樓的樓層辦公分布
+      operationId: get_c3ffc733_c2e3_42c6_9c14_cddddf3d2aec_json
+      parameters:
+        - name: page
+          in: query
+          description: 頁碼(0..N)
+          schema:
+            type: integer
+            default: 0
+        - name: size
+          in: query
+          description: 每頁筆數
+          schema:
+            type: integer
+            default: 100
+      responses:
+        '200':
+          description: success
+          content:
+            application/json: []
+  /api/datasets/c3ffc733-c2e3-42c6-9c14-cddddf3d2aec/xml:
+    get:
+      tags:
+        - XML
+      summary: 新北市政府行政大樓導覽
+      description: 讓您了解市政大樓的樓層辦公分布
+      operationId: get_c3ffc733_c2e3_42c6_9c14_cddddf3d2aec_xml
+      parameters:
+        - name: page
+          in: query
+          description: 頁碼(0..N)
+          schema:
+            type: integer
+            default: 0
+        - name: size
+          in: query
+          description: 每頁筆數
+          schema:
+            type: integer
+            default: 100
+      responses:
+        '200':
+          - description: success
+            content:
+              application/xml: []
