@@ -120,6 +120,7 @@ Name | Type | Description
 *Other*
 Name | Type | Description
 ---- | ---- | ----
+[timeanddate](https://www.timeanddate.com/date/weeknumber.html) | Online | Week Number Calculator: What Week of the Year Is It?
 [qBittorrent](https://www.qbittorrent.org/) | Windows | The qBittorrent project aims to provide an open-source software alternative to µTorrent.
 [doitsujin/dxvk](https://github.com/doitsujin/dxvk) | Windows | Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
 [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | Web system | The communications platform that puts data protection first.
