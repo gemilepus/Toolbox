@@ -1,8 +1,7 @@
 *Widgets*
 Name | Type | Description
 ---- | ---- | ----
-[Simple Sticky Notes :sparkles:](https://www.simplestickynotes.com/) | Windows | Free Sticky Notes Software
-[HiddeX](http://dejavu.narod.ru/hiddex.html) | Windows | hide any window, program, browser or game in the background with one click or hotkey
+:sparkles: [Simple Sticky Notes](https://www.simplestickynotes.com/) | Windows | Free Sticky Notes Software
 [MoonyDesk](https://tottsunta.blogspot.com/search/label/MoonyDesk) | Windows | clock and weather widgets
 [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | Windows | Windows system utilities to maximize productivity
 [TheJoeFin/Text-Grab](https://github.com/TheJoeFin/Text-Grab) | Windows | Use OCR in Windows quickly and easily with Text Grab. With optional background process and popups.
@@ -17,7 +16,7 @@ Name | Type | Description
 *Graph drawing,Photo Editor*
 Name | Type | Description
 ---- | ---- | ----
-[Diagrams :sparkles:](https://app.diagrams.net/) | Online | Graph drawing 
+:sparkles: [Diagrams](https://app.diagrams.net/) | Online | Graph drawing 
 [Figma](https://www.figma.com/) | Online | Figma is the leading collaborative design tool for building meaningful products. Seamlessly design, prototype, develop, and collect feedback in a single ...
 [Photopea](https://www.photopea.com/) | Online | Online Photo Editor
 [Cacoo](https://cacoo.com/) | Online | create flowcharts, wireframes, network diagrams, org charts, and more.
@@ -29,7 +28,7 @@ Name | Type | Description
 *Icon,Image*
 Name | Type | Description
 ---- | ---- | ----
-[Unsplash :sparkles:](https://unsplash.com/) | Online | Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.
+:sparkles: [Unsplash](https://unsplash.com/) | Online | Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.
 [Font Awesome](https://fontawesome.com/v5/search?o=r&m=free) | Online | Font Awesome is the Internet's icon library and toolkit, used by millions of designers, developers, and content creators.
 [いらすとや](https://www.irasutoya.com/) | Online | いらすとやは季節のイベント・動物・子供などのかわいいイラストが沢山見つかるフリー素材サイトです。
 [Pakutaso](https://www.pakutaso.com/) | Online | 写真素材を無料でダウンロード
@@ -53,7 +52,7 @@ Name | ---- | Description
 ---- | ---- | ----
 [CloudConvert](https://cloudconvert.com/) | Online | CloudConvert is an online file converter
 [aspose.app](https://www.aspose.app/) | Online | File Format Apps
-[Total Commander :sparkles:](https://www.ghisler.com/) | Windows | file manager for Windows
+:sparkles: [Total Commander](https://www.ghisler.com/) | Windows | file manager for Windows
 [files-community/Files](https://github.com/files-community/Files) | Windows | A modern file manager for Windows
 [prasathmani/tinyfilemanager](https://github.com/prasathmani/tinyfilemanager) | Web system | Single-file PHP file manager, browser and manage your files efficiently and easily with tinyfilemanager
 [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) | Web system | A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
@@ -61,7 +60,7 @@ Name | ---- | Description
 *Video*
 Name | Type | Description
 ---- | ---- | ----
-[NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) | Windows | allows you to record a selected area of your screen, edit and save it as a gif or video.
+:sparkles: [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) | Windows | allows you to record a selected area of your screen, edit and save it as a gif or video.
 [ActivePresenter](https://atomisystems.com/download/) | Windows | All-in-One Screen Recorder, Video Editor & eLearning Authoring Software
 [MKVToolNix](https://mkvtoolnix.download/) | Windows | MKVToolNix is a collection of tools for the Matroska media container format by Moritz Bunkus including mkvmerge.
 [SubtitleEdit](https://github.com/SubtitleEdit/subtitleedit) | Windows | the subtitle editor
@@ -84,10 +83,11 @@ Name | Type | Description
 [compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) | Online | Run compilers interactively from your web browser and interact with the assembly
 [startbootstrap.com](https://startbootstrap.com/themes) | Online | Bootstrap Templates & Themes
 [mapstogpx.com](https://mapstogpx.com/mobiledev.php) | Online | Maps to GPX Converter for location aware development
+[Swagger Editor](https://editor-next.swagger.io/) | Online | The Swagger Editor offers an easy way to get started with the OpenAPI Specification (formerly known as Swagger) as well as the AsyncAPI specification.
 [veler/DevToys](https://github.com/veler/DevToys) | Windows | A Swiss Army knife for developers
 [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) | Windows | .NET debugger and assembly editor
+[WampServer](https://sourceforge.net/projects/wampserver/) | Windows | WampServer is a Web development platform on Windows that allows you to create dynamic Web applications with Apache2, PHP, MySQL and MariaDB.
 [phpMyAdmin](https://www.phpmyadmin.net/) | Web system | phpMyAdmin is a free software tool written in PHP, intended to handle the administration of MySQL over the Web
-[Swagger Editor](https://editor-next.swagger.io/) | Online | The Swagger Editor offers an easy way to get started with the OpenAPI Specification (formerly known as Swagger) as well as the AsyncAPI specification.
 
 *Reverse*
 Name | Type | Description
@@ -114,6 +114,7 @@ Name | Type | Description
 [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) | Windows | mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 [Advanced Port Scanner](https://www.advanced-port-scanner.com/tw/) | Windows | find open ports on network computers and retrieve versions of programs running on the detected ports.
 [Boomerang-SOAP & REST Client](https://chromewebstore.google.com/detail/boomerang-soap-rest-clien/eipdnjedkpcnlmmdfdkgfpljanehloah?pli=1) | Windows | Seamlessly integrate and test SOAP & REST services.
+[Allow CORS: Access-Control-Allow-Origin](https://chromewebstore.google.com/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf) | Windows | Easily add (Access-Control-Allow-Origin: *) rule to the response header.Allow CORS: Access-Control-Allow-Origin lets you easily perform cross-domain Ajax requests in web applications.
 [Wake On Lan](https://play.google.com/store/apps/details?id=co.uk.mrwebb.wakeonlanS) | Android | Easily wake up computers from your phone/tablet!
 [Microsoft Remote Desktop](https://play.google.com/store/apps/details?id=com.microsoft.rdc.androidx) | Android | for Android to connect to Azure Virtual Desktop, Windows 365, admin-provided virtual apps and desktops, or remote PCs. With Microsoft Remote Desktop, you can be productive no matter where you are.
 [Nginx Proxy Manager](https://nginxproxymanager.com/) | Web system | This project comes as a pre-built docker image that enables you to easily forward to your websites running at home or otherwise
@@ -122,11 +123,12 @@ Name | Type | Description
 Name | Type | Description
 ---- | ---- | ----
 [timeanddate](https://www.timeanddate.com/date/weeknumber.html) | Online | Week Number Calculator: What Week of the Year Is It?
-[qBittorrent](https://www.qbittorrent.org/) | Windows | The qBittorrent project aims to provide an open-source software alternative to µTorrent.
-[doitsujin/dxvk](https://github.com/doitsujin/dxvk) | Windows | Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
-[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | Web system | The communications platform that puts data protection first.
-[oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) | Web system | A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
 [Firefox Relay](https://relay.firefox.com/) | Online | Firefox Relay⁩ makes it easy to create email aliases, aliases that forward to your real inbox
 [nyan のアプリ開発](https://akira-watson.com/) | Online | Android アプリを作る
+[qBittorrent](https://www.qbittorrent.org/) | Windows | The qBittorrent project aims to provide an open-source software alternative to µTorrent.
+[doitsujin/dxvk](https://github.com/doitsujin/dxvk) | Windows | Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
+[HiddeX](http://dejavu.narod.ru/hiddex.html) | Windows | hide any window, program, browser or game in the background with one click or hotkey
+[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | Web system | The communications platform that puts data protection first.
+[oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) | Web system | A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
 
 
