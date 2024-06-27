@@ -6,7 +6,7 @@ Name | Type | Description
 [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | Windows | Windows system utilities to maximize productivity
 [TheJoeFin/Text-Grab](https://github.com/TheJoeFin/Text-Grab) | Windows | Use OCR in Windows quickly and easily with Text Grab. With optional background process and popups.
 
-*Script*
+*Automation*
 Name | Type | Description
 ---- | ---- | ----
 [gemilepus/Scriptboxie](https://github.com/gemilepus/Scriptboxie) | Windows | Scriptboxie allows you to effortlessly manage and craft scripts. Can be used to streamline repetitive and time-consuming tasks.
