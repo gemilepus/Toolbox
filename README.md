@@ -1,7 +1,7 @@
 *Widgets*
 Name | Type | Description
 ---- | ---- | ----
-:sparkles: [Simple Sticky Notes](https://www.simplestickynotes.com/) | Windows | Free Sticky Notes Software
+[Simple Sticky Notes](https://www.simplestickynotes.com/) :sparkles: | Windows | Free Sticky Notes Software
 [MoonyDesk](https://tottsunta.blogspot.com/search/label/MoonyDesk) | Windows | clock and weather widgets
 [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | Windows | Windows system utilities to maximize productivity
 [TheJoeFin/Text-Grab](https://github.com/TheJoeFin/Text-Grab) | Windows | Use OCR in Windows quickly and easily with Text Grab. With optional background process and popups.
@@ -16,7 +16,7 @@ Name | Type | Description
 *Graph drawing,Photo Editor*
 Name | Type | Description
 ---- | ---- | ----
-:sparkles: [Diagrams](https://app.diagrams.net/) | Online | Graph drawing 
+[Diagrams](https://app.diagrams.net/) :sparkles: | Online | Graph drawing 
 [Figma](https://www.figma.com/) | Online | Figma is the leading collaborative design tool for building meaningful products. Seamlessly design, prototype, develop, and collect feedback in a single ...
 [Photopea](https://www.photopea.com/) | Online | Online Photo Editor
 [Cacoo](https://cacoo.com/) | Online | create flowcharts, wireframes, network diagrams, org charts, and more.
@@ -28,7 +28,7 @@ Name | Type | Description
 *Icon,Image*
 Name | Type | Description
 ---- | ---- | ----
-:sparkles: [Unsplash](https://unsplash.com/) | Online | Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.
+[Unsplash](https://unsplash.com/) :sparkles: | Online | Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.
 [Font Awesome](https://fontawesome.com/v5/search?o=r&m=free) | Online | Font Awesome is the Internet's icon library and toolkit, used by millions of designers, developers, and content creators.
 [いらすとや](https://www.irasutoya.com/) | Online | いらすとやは季節のイベント・動物・子供などのかわいいイラストが沢山見つかるフリー素材サイトです。
 [Pakutaso](https://www.pakutaso.com/) | Online | 写真素材を無料でダウンロード
@@ -52,7 +52,7 @@ Name | ---- | Description
 ---- | ---- | ----
 [CloudConvert](https://cloudconvert.com/) | Online | CloudConvert is an online file converter
 [aspose.app](https://www.aspose.app/) | Online | File Format Apps
-:sparkles: [Total Commander](https://www.ghisler.com/) | Windows | file manager for Windows
+[Total Commander](https://www.ghisler.com/) :sparkles: | Windows | file manager for Windows
 [files-community/Files](https://github.com/files-community/Files) | Windows | A modern file manager for Windows
 [prasathmani/tinyfilemanager](https://github.com/prasathmani/tinyfilemanager) | Web system | Single-file PHP file manager, browser and manage your files efficiently and easily with tinyfilemanager
 [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) | Web system | A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
@@ -60,7 +60,7 @@ Name | ---- | Description
 *Video*
 Name | Type | Description
 ---- | ---- | ----
-:sparkles: [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) | Windows | allows you to record a selected area of your screen, edit and save it as a gif or video.
+[NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) :sparkles: | Windows | allows you to record a selected area of your screen, edit and save it as a gif or video.
 [ActivePresenter](https://atomisystems.com/download/) | Windows | All-in-One Screen Recorder, Video Editor & eLearning Authoring Software
 [MKVToolNix](https://mkvtoolnix.download/) | Windows | MKVToolNix is a collection of tools for the Matroska media container format by Moritz Bunkus including mkvmerge.
 [SubtitleEdit](https://github.com/SubtitleEdit/subtitleedit) | Windows | the subtitle editor
