@@ -106,29 +106,28 @@ Name | Type | Description
 [xupefei/Locale-Emulator](https://github.com/xupefei/Locale-Emulator) | Windows | Yet Another System Region and Language Simulator
 [Autoruns for Windows](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) | Windows | it shows you the currently configured auto-start applications as well as the full list of Registry and file system
 
-*network*
+*Network*
 Name | Type | Description
 ---- | ---- | ----
-[NordVPN IP Lookup](https://nordvpn.com/zh-tw/ip-lookup/) | Online | IP Lookup
-[A-Packets](https://apackets.com/) | Online | Online pcap file analyzer
+[NordVPN IP Lookup](https://nordvpn.com/ip-lookup/) | Online | IP Lookup
 [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) | Windows | mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
-[Advanced Port Scanner](https://www.advanced-port-scanner.com/tw/) | Windows | find open ports on network computers and retrieve versions of programs running on the detected ports.
 [Boomerang-SOAP & REST Client](https://chromewebstore.google.com/detail/boomerang-soap-rest-clien/eipdnjedkpcnlmmdfdkgfpljanehloah?pli=1) | Windows | Seamlessly integrate and test SOAP & REST services.
 [Allow CORS: Access-Control-Allow-Origin](https://chromewebstore.google.com/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf) | Windows | Easily add (Access-Control-Allow-Origin: *) rule to the response header.Allow CORS: Access-Control-Allow-Origin lets you easily perform cross-domain Ajax requests in web applications.
+[qBittorrent](https://www.qbittorrent.org/) | Windows | The qBittorrent project aims to provide an open-source software alternative to µTorrent.
 [Wake On Lan](https://play.google.com/store/apps/details?id=co.uk.mrwebb.wakeonlanS) | Android | Easily wake up computers from your phone/tablet!
 [Microsoft Remote Desktop](https://play.google.com/store/apps/details?id=com.microsoft.rdc.androidx) | Android | for Android to connect to Azure Virtual Desktop, Windows 365, admin-provided virtual apps and desktops, or remote PCs. With Microsoft Remote Desktop, you can be productive no matter where you are.
 [Nginx Proxy Manager](https://nginxproxymanager.com/) | Web system | This project comes as a pre-built docker image that enables you to easily forward to your websites running at home or otherwise
+[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | Web system | The communications platform that puts data protection first.
 
 *Other*
 Name | Type | Description
 ---- | ---- | ----
 [timeanddate](https://www.timeanddate.com/date/weeknumber.html) | Online | Week Number Calculator: What Week of the Year Is It?
+[A-Packets](https://apackets.com/) | Online | Online pcap file analyzer
 [Firefox Relay](https://relay.firefox.com/) | Online | Firefox Relay⁩ makes it easy to create email aliases, aliases that forward to your real inbox
 [nyan のアプリ開発](https://akira-watson.com/) | Online | Android アプリを作る
-[qBittorrent](https://www.qbittorrent.org/) | Windows | The qBittorrent project aims to provide an open-source software alternative to µTorrent.
 [doitsujin/dxvk](https://github.com/doitsujin/dxvk) | Windows | Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
 [HiddeX](http://dejavu.narod.ru/hiddex.html) | Windows | hide any window, program, browser or game in the background with one click or hotkey
-[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | Web system | The communications platform that puts data protection first.
 [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) | Web system | A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
 
 
