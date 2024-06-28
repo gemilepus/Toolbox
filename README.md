@@ -71,6 +71,7 @@ Name | Type | Description
 ---- | ---- | ----
 [MDN Web Docs](https://developer.mozilla.org/en-US/) | Online | Documenting web technologies, including CSS, HTML, and JavaScript, since 2005.
 [Can I use...](https://caniuse.com/) | Online | Support tables for HTML5, CSS3, etc
+[JSFiddle](https://jsfiddle.net/) | Online | Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.
 [PLAYCODE](https://playcode.io/) | Online | javascript playground with instant live preview and console
 [Free Online IDE and Terminal](https://www.tutorialspoint.com/codingground.htm) | Online | Online IDE and Terminal
 [Code Beautify](https://codebeautify.org/) | Online | JSON Beautifier, XML Viewer, JSON Converters, Hex Converters and More..
