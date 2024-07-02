@@ -110,7 +110,7 @@ Name | Type | Description
 *Network*
 Name | Type | Description
 ---- | ---- | ----
-[NordVPN IP Lookup](https://nordvpn.com/ip-lookup/) | Online | IP Lookup
+[NordVPN IP Lookup](https://nordvpn.com/ip-lookup/) | Online | IP address lookup: Find your IP geolocation
 [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) | Windows | mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 [Boomerang-SOAP & REST Client](https://chromewebstore.google.com/detail/boomerang-soap-rest-clien/eipdnjedkpcnlmmdfdkgfpljanehloah?pli=1) | Windows | Seamlessly integrate and test SOAP & REST services.
 [Allow CORS: Access-Control-Allow-Origin](https://chromewebstore.google.com/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf) | Windows | Easily add (Access-Control-Allow-Origin: *) rule to the response header.Allow CORS: Access-Control-Allow-Origin lets you easily perform cross-domain Ajax requests in web applications.
