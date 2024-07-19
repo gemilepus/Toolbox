@@ -77,14 +77,14 @@ Name | Type | Description
 [Code Beautify](https://codebeautify.org/) | Online | JSON Beautifier, XML Viewer, JSON Converters, Hex Converters and More..
 [URL Decode and Encode](https://www.urldecoder.org/) | Online | URL Decode and Encode
 [JSON Formatter & Validator](https://jsonformatter.curiousconcept.com/) | Online | JSON Formatter & Validator
-[aes-encryption-decryption](https://www.devglan.com/online-tools/aes-encryption-decryption) | Online | AES Encryption and Decryption Online Tool
+[Swagger Editor](https://editor-next.swagger.io/) | Online | The Swagger Editor offers an easy way to get started with the OpenAPI Specification (formerly known as Swagger) as well as the AsyncAPI specification.
+[editor.md](https://github.com/pandao/editor.md) | Online | The open source embeddable online markdown editor (component)
+[Milkdown/milkdown](https://milkdown.dev/playground) | Online | Plugin driven WYSIWYG markdown editor framework.
 [Libraries.io](https://libraries.io/) | Online | Libraries.io monitors 5,264,226 open source packages across 32 different package managers
 [BuiltWith Technology Lookup](https://builtwith.com/) | Online | Find out what websites areBuilt With
-[editor.md](https://github.com/pandao/editor.md) | Online | The open source embeddable online markdown editor (component)
 [compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) | Online | Run compilers interactively from your web browser and interact with the assembly
 [startbootstrap.com](https://startbootstrap.com/themes) | Online | Bootstrap Templates & Themes
 [mapstogpx.com](https://mapstogpx.com/mobiledev.php) | Online | Maps to GPX Converter for location aware development
-[Swagger Editor](https://editor-next.swagger.io/) | Online | The Swagger Editor offers an easy way to get started with the OpenAPI Specification (formerly known as Swagger) as well as the AsyncAPI specification.
 [veler/DevToys](https://github.com/veler/DevToys) | Windows | A Swiss Army knife for developers
 [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) | Windows | .NET debugger and assembly editor
 [WampServer](https://sourceforge.net/projects/wampserver/) | Windows | WampServer is a Web development platform on Windows that allows you to create dynamic Web applications with Apache2, PHP, MySQL and MariaDB.
@@ -123,12 +123,13 @@ Name | Type | Description
 *Other*
 Name | Type | Description
 ---- | ---- | ----
+[oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) | Web system | A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
 [timeanddate](https://www.timeanddate.com/date/weeknumber.html) | Online | Week Number Calculator: What Week of the Year Is It?
-[A-Packets](https://apackets.com/) | Online | Online pcap file analyzer
 [Firefox Relay](https://relay.firefox.com/) | Online | Firefox Relay⁩ makes it easy to create email aliases, aliases that forward to your real inbox
 [nyan のアプリ開発](https://akira-watson.com/) | Online | Android アプリを作る
 [doitsujin/dxvk](https://github.com/doitsujin/dxvk) | Windows | Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
+[A-Packets](https://apackets.com/) | Online | Online pcap file analyzer
 [HiddeX](http://dejavu.narod.ru/hiddex.html) | Windows | hide any window, program, browser or game in the background with one click or hotkey
-[oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) | Web system | A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
+[aes-encryption-decryption](https://www.devglan.com/online-tools/aes-encryption-decryption) | Online | AES Encryption and Decryption Online Tool
 
 
