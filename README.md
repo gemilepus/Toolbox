@@ -133,5 +133,6 @@ Name | Type | Description
 [HiddeX](http://dejavu.narod.ru/hiddex.html) | Windows | hide any window, program, browser or game in the background with one click or hotkey
 [aes-encryption-decryption](https://www.devglan.com/online-tools/aes-encryption-decryption) | Online | AES Encryption and Decryption Online Tool
 [Memes.tw](https://memes.tw/) | Online | Meme 梗圖倉庫
+[LibHunt](https://www.libhunt.com/) | Online | Discover awesome open-source projectsand their alternatives
 
 
