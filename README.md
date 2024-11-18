@@ -134,5 +134,6 @@ Name | Type | Description
 [aes-encryption-decryption](https://www.devglan.com/online-tools/aes-encryption-decryption) | Online | AES Encryption and Decryption Online Tool
 [Memes.tw](https://memes.tw/) | Online | Meme 梗圖倉庫
 [LibHunt](https://www.libhunt.com/) | Online | Discover awesome open-source projectsand their alternatives
+[Awesome PHP](https://php.libhunt.com/) | Online | A curated list of awesome PHP libraries and resources
 
 
