@@ -94,6 +94,7 @@ Name | Type | Description
 *Reverse*
 Name | Type | Description
 ---- | ---- | ----
+[x64dbg](https://github.com/x64dbg/x64dbg) | Windows | An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 [WerWolv/ImHex](https://github.com/WerWolv/ImHex) | Windows | A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) | Windows | .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 [API Monitor v2](http://www.rohitab.com/apimonitor) | Windows | API Monitor is a free software that lets you monitor and control API calls made by applications and services.
