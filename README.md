@@ -17,8 +17,8 @@ Name | Type | Description
 Name | Type | Description
 ---- | ---- | ----
 [Diagrams](https://app.diagrams.net/) :sparkles: | Online | Graph drawing 
+[Photopea](https://www.photopea.com/) :sparkles: | Online | Online Photo Editor
 [Figma](https://www.figma.com/) | Online | Figma is the leading collaborative design tool for building meaningful products. Seamlessly design, prototype, develop, and collect feedback in a single ...
-[Photopea](https://www.photopea.com/) | Online | Online Photo Editor
 [Cacoo](https://cacoo.com/) | Online | create flowcharts, wireframes, network diagrams, org charts, and more.
 [network-science/ASCII Generator](http://www.network-science.de/ascii/) | Online | Generate a ASCII graphic from a word or text
 [ASCII-Generator](https://ascii-generator.site/) | Online | Upload an image file to convert it to ASCII art
@@ -39,7 +39,7 @@ Name | Type | Description
 [piliapp emoji](https://tw.piliapp.com/emoji/list/) | Online | emoji
 [Material Icons](https://fonts.google.com/icons?selected=Material+Icons) | Online | Material Icons
 [Feather](https://feathericons.com/) | Online | Simply beautiful open source icons
-[freesound]([https://feathericons.com/](https://freesound.org/)) | Online | Freesound: collaborative database of creative-commons licensed sound for musicians and sound lovers.
+[Freesound](https://freesound.org/) | Online | Freesound: collaborative database of creative-commons licensed sound for musicians and sound lovers.
 
 *Color*
 Name | Type | Description
