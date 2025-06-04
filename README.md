@@ -1,10 +1,10 @@
-*Widgets*
+*Windows Widgets*
 Name | Type | Description
 ---- | ---- | ----
 [Simple Sticky Notes](https://www.simplestickynotes.com/) :sparkles: | Windows | Free Sticky Notes Software
-[MoonyDesk](https://tottsunta.blogspot.com/search/label/MoonyDesk) | Windows | clock and weather widgets
 [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | Windows | Windows system utilities to maximize productivity
 [TheJoeFin/Text-Grab](https://github.com/TheJoeFin/Text-Grab) | Windows | Use OCR in Windows quickly and easily with Text Grab. With optional background process and popups.
+[MoonyDesk](https://tottsunta.blogspot.com/search/label/MoonyDesk) | Windows | clock and weather widgets
 
 *Automation*
 Name | Type | Description
@@ -29,17 +29,17 @@ Name | Type | Description
 Name | Type | Description
 ---- | ---- | ----
 [Unsplash](https://unsplash.com/) :sparkles: | Online | Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.
-[Font Awesome](https://fontawesome.com/v5/search?o=r&m=free) | Online | Font Awesome is the Internet's icon library and toolkit, used by millions of designers, developers, and content creators.
 [いらすとや](https://www.irasutoya.com/) | Online | いらすとやは季節のイベント・動物・子供などのかわいいイラストが沢山見つかるフリー素材サイトです。
+[Font Awesome](https://fontawesome.com/v5/search?o=r&m=free) | Online | Font Awesome is the Internet's icon library and toolkit, used by millions of designers, developers, and content creators.
 [Pakutaso](https://www.pakutaso.com/) | Online | 写真素材を無料でダウンロード
 [Pixabay](https://pixabay.com/) | Online | Pixabay is a vibrant community of creatives, sharing copyright free images, videos and music. All contents are released under the Pixabay License
 [illustAC](https://www.ac-illust.com/) | Online | おしゃれでかわいい無料イラスト
 [pngtree](https://pngtree.com) | Online | Digital label, Vector Material, Ribbon Banners PNG and PSD File for Free Download
 [visualpharm](https://www.visualpharm.com/) | Online | Free SVG Icons with super-fast search and free Coke. Built for fun by Icons8.
+[Freesound](https://freesound.org/) | Online | Freesound: collaborative database of creative-commons licensed sound for musicians and sound lovers.
 [piliapp emoji](https://tw.piliapp.com/emoji/list/) | Online | emoji
 [Material Icons](https://fonts.google.com/icons?selected=Material+Icons) | Online | Material Icons
 [Feather](https://feathericons.com/) | Online | Simply beautiful open source icons
-[Freesound](https://freesound.org/) | Online | Freesound: collaborative database of creative-commons licensed sound for musicians and sound lovers.
 
 *Color*
 Name | Type | Description
