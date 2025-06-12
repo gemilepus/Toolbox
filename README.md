@@ -95,6 +95,7 @@ Name | Type | Description
 *Reverse*
 Name | Type | Description
 ---- | ---- | ----
+[dotPeek](https://www.jetbrains.com/decompiler/) | Windows | dotPeek is a free-of-charge standalone tool based on ReSharper's bundled decompiler. It can reliably decompile any .NET assembly into equivalent C# or IL code.
 [x64dbg](https://github.com/x64dbg/x64dbg) | Windows | An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 [WerWolv/ImHex](https://github.com/WerWolv/ImHex) | Windows | A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) | Windows | .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
