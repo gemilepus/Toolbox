@@ -91,6 +91,7 @@ Name | Type | Description
 [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) | Windows | .NET debugger and assembly editor
 [WampServer](https://sourceforge.net/projects/wampserver/) | Windows | WampServer is a Web development platform on Windows that allows you to create dynamic Web applications with Apache2, PHP, MySQL and MariaDB.
 [phpMyAdmin](https://www.phpmyadmin.net/) | Web system | phpMyAdmin is a free software tool written in PHP, intended to handle the administration of MySQL over the Web
+[nyan のアプリ開発](https://akira-watson.com/) | Online | Android アプリを作る
 
 *Reverse*
 Name | Type | Description
@@ -130,7 +131,6 @@ Name | Type | Description
 [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) | Web system | A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
 [timeanddate](https://www.timeanddate.com/date/weeknumber.html) | Online | Week Number Calculator: What Week of the Year Is It?
 [Firefox Relay](https://relay.firefox.com/) | Online | Firefox Relay⁩ makes it easy to create email aliases, aliases that forward to your real inbox
-[nyan のアプリ開発](https://akira-watson.com/) | Online | Android アプリを作る
 [doitsujin/dxvk](https://github.com/doitsujin/dxvk) | Windows | Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
 [A-Packets](https://apackets.com/) | Online | Online pcap file analyzer
 [HiddeX](http://dejavu.narod.ru/hiddex.html) | Windows | hide any window, program, browser or game in the background with one click or hotkey
