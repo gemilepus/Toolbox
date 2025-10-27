@@ -38,12 +38,9 @@ Name | Type | Description
 [visualpharm](https://www.visualpharm.com/) | Online | Free SVG Icons with super-fast search and free Coke. Built for fun by Icons8.
 [Freesound](https://freesound.org/) | Online | Freesound: collaborative database of creative-commons licensed sound for musicians and sound lovers.
 [piliapp emoji](https://tw.piliapp.com/emoji/list/) | Online | emoji
+[GIPHY](https://giphy.com/) | Online | GIPHY is the platform that animates your world. Find the GIFs, Clips, and Stickers that make your conversations more positive, more expressive, and more ...
 [Material Icons](https://fonts.google.com/icons?selected=Material+Icons) | Online | Material Icons
 [Feather](https://feathericons.com/) | Online | Simply beautiful open source icons
-
-*Color*
-Name | Type | Description
----- | ---- | ----
 [Adobe Color](https://color.adobe.com/) | Online | Create color palettes with the color wheel or image
 [Color picker tool](https://developer.mozilla.org/zh-TW/docs/Web/CSS/CSS_Colors/Color_picker_tool) | Online | Color picker tool
 [NIPPON COLORS](https://nipponcolors.com/) | Online | The Traditional Colors of Nippon (Japan)
@@ -115,13 +112,13 @@ Name | Type | Description
 *Network*
 Name | Type | Description
 ---- | ---- | ----
-[NordVPN IP Lookup](https://nordvpn.com/ip-lookup/) | Online | IP address lookup: Find your IP geolocation
 [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) | Windows | mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 [Boomerang-SOAP & REST Client](https://chromewebstore.google.com/detail/boomerang-soap-rest-clien/eipdnjedkpcnlmmdfdkgfpljanehloah?pli=1) | Windows | Seamlessly integrate and test SOAP & REST services.
+[Microsoft Remote Desktop](https://play.google.com/store/apps/details?id=com.microsoft.rdc.androidx) | Android | for Android to connect to Azure Virtual Desktop, Windows 365, admin-provided virtual apps and desktops, or remote PCs. With Microsoft Remote Desktop, you can be productive no matter where you are.
+[Wake On Lan](https://play.google.com/store/apps/details?id=co.uk.mrwebb.wakeonlanS) | Android | Easily wake up computers from your phone/tablet!
+[NordVPN IP Lookup](https://nordvpn.com/ip-lookup/) | Online | IP address lookup: Find your IP geolocation
 [Allow CORS: Access-Control-Allow-Origin](https://chromewebstore.google.com/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf) | Windows | Easily add (Access-Control-Allow-Origin: *) rule to the response header.Allow CORS: Access-Control-Allow-Origin lets you easily perform cross-domain Ajax requests in web applications.
 [qBittorrent](https://www.qbittorrent.org/) | Windows | The qBittorrent project aims to provide an open-source software alternative to µTorrent.
-[Wake On Lan](https://play.google.com/store/apps/details?id=co.uk.mrwebb.wakeonlanS) | Android | Easily wake up computers from your phone/tablet!
-[Microsoft Remote Desktop](https://play.google.com/store/apps/details?id=com.microsoft.rdc.androidx) | Android | for Android to connect to Azure Virtual Desktop, Windows 365, admin-provided virtual apps and desktops, or remote PCs. With Microsoft Remote Desktop, you can be productive no matter where you are.
 [Nginx Proxy Manager](https://nginxproxymanager.com/) | Web system | This project comes as a pre-built docker image that enables you to easily forward to your websites running at home or otherwise
 [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | Web system | The communications platform that puts data protection first.
 
@@ -135,7 +132,6 @@ Name | Type | Description
 [A-Packets](https://apackets.com/) | Online | Online pcap file analyzer
 [HiddeX](http://dejavu.narod.ru/hiddex.html) | Windows | hide any window, program, browser or game in the background with one click or hotkey
 [aes-encryption-decryption](https://www.devglan.com/online-tools/aes-encryption-decryption) | Online | AES Encryption and Decryption Online Tool
-[GIPHY](https://giphy.com/) | Online | GIPHY is the platform that animates your world. Find the GIFs, Clips, and Stickers that make your conversations more positive, more expressive, and more ...
 [Memes.tw](https://memes.tw/) | Online | Meme 梗圖倉庫
 [LibHunt](https://www.libhunt.com/) | Online | Discover awesome open-source projectsand their alternatives
 [Awesome PHP](https://php.libhunt.com/) | Online | A curated list of awesome PHP libraries and resources
