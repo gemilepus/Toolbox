@@ -84,12 +84,17 @@ Name | Type | Description
 [compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) | Online | Run compilers interactively from your web browser and interact with the assembly
 [startbootstrap.com](https://startbootstrap.com/themes) | Online | Bootstrap Templates & Themes
 [mapstogpx.com](https://mapstogpx.com/mobiledev.php) | Online | Maps to GPX Converter for location aware development
+[nyan のアプリ開発](https://akira-watson.com/) | Online | Android アプリを作る
 [veler/DevToys](https://github.com/veler/DevToys) | Windows | A Swiss Army knife for developers
 [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) | Windows | .NET debugger and assembly editor
-[qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) | Windows | A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.
 [WampServer](https://sourceforge.net/projects/wampserver/) | Windows | WampServer is a Web development platform on Windows that allows you to create dynamic Web applications with Apache2, PHP, MySQL and MariaDB.
+
+*Database*
+Name | Type | Description
+---- | ---- | ----
+[qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) | Windows | A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.
 [phpMyAdmin](https://www.phpmyadmin.net/) | Web system | phpMyAdmin is a free software tool written in PHP, intended to handle the administration of MySQL over the Web
-[nyan のアプリ開発](https://akira-watson.com/) | Online | Android アプリを作る
+[vrana/adminer](https://github.com/vrana/adminer) | Web system | Database management in a single PHP file
 
 *Reverse*
 Name | Type | Description
@@ -113,7 +118,6 @@ Name | Type | Description
 *Network*
 Name | Type | Description
 ---- | ---- | ----
-[Apache guacamole](https://guacamole.apache.org/) | Web system | Apache Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH.
 [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) | Windows | mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 [Boomerang-SOAP & REST Client](https://chromewebstore.google.com/detail/boomerang-soap-rest-clien/eipdnjedkpcnlmmdfdkgfpljanehloah?pli=1) | Windows | Seamlessly integrate and test SOAP & REST services.
 [Microsoft Remote Desktop](https://play.google.com/store/apps/details?id=com.microsoft.rdc.androidx) | Android | for Android to connect to Azure Virtual Desktop, Windows 365, admin-provided virtual apps and desktops, or remote PCs. With Microsoft Remote Desktop, you can be productive no matter where you are.
@@ -121,6 +125,7 @@ Name | Type | Description
 [NordVPN IP Lookup](https://nordvpn.com/ip-lookup/) | Online | IP address lookup: Find your IP geolocation
 [Allow CORS: Access-Control-Allow-Origin](https://chromewebstore.google.com/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf) | Windows | Easily add (Access-Control-Allow-Origin: *) rule to the response header.Allow CORS: Access-Control-Allow-Origin lets you easily perform cross-domain Ajax requests in web applications.
 [qBittorrent](https://www.qbittorrent.org/) | Windows | The qBittorrent project aims to provide an open-source software alternative to µTorrent.
+[Apache guacamole](https://guacamole.apache.org/) | Web system | Apache Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH.
 [Nginx Proxy Manager](https://nginxproxymanager.com/) | Web system | This project comes as a pre-built docker image that enables you to easily forward to your websites running at home or otherwise
 [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | Web system | The communications platform that puts data protection first.
 
