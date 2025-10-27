@@ -86,6 +86,7 @@ Name | Type | Description
 [mapstogpx.com](https://mapstogpx.com/mobiledev.php) | Online | Maps to GPX Converter for location aware development
 [veler/DevToys](https://github.com/veler/DevToys) | Windows | A Swiss Army knife for developers
 [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) | Windows | .NET debugger and assembly editor
+[qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) | Windows | A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.
 [WampServer](https://sourceforge.net/projects/wampserver/) | Windows | WampServer is a Web development platform on Windows that allows you to create dynamic Web applications with Apache2, PHP, MySQL and MariaDB.
 [phpMyAdmin](https://www.phpmyadmin.net/) | Web system | phpMyAdmin is a free software tool written in PHP, intended to handle the administration of MySQL over the Web
 [nyan のアプリ開発](https://akira-watson.com/) | Online | Android アプリを作る
@@ -112,6 +113,7 @@ Name | Type | Description
 *Network*
 Name | Type | Description
 ---- | ---- | ----
+[Apache guacamole](https://guacamole.apache.org/) | Web system | Apache Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH.
 [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) | Windows | mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 [Boomerang-SOAP & REST Client](https://chromewebstore.google.com/detail/boomerang-soap-rest-clien/eipdnjedkpcnlmmdfdkgfpljanehloah?pli=1) | Windows | Seamlessly integrate and test SOAP & REST services.
 [Microsoft Remote Desktop](https://play.google.com/store/apps/details?id=com.microsoft.rdc.androidx) | Android | for Android to connect to Azure Virtual Desktop, Windows 365, admin-provided virtual apps and desktops, or remote PCs. With Microsoft Remote Desktop, you can be productive no matter where you are.
