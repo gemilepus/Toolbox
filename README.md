@@ -113,6 +113,7 @@ Name | Type | Description
 [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) | Windows | Sandboxie is a sandbox-based isolation software
 [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) | Windows | shows you information about which handles and DLLs processes have opened or loaded.
 [winsiderss/systeminf](https://github.com/winsiderss/systeminformer) | Windows | A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc.
+[winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) | Windows | A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. 
 [xupefei/Locale-Emulator](https://github.com/xupefei/Locale-Emulator) | Windows | Yet Another System Region and Language Simulator
 [Autoruns for Windows](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) | Windows | it shows you the currently configured auto-start applications as well as the full list of Registry and file system
 
