@@ -134,7 +134,6 @@ Name | Type | Description
 *Other*
 Name | Type | Description
 ---- | ---- | ----
-[oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) | Web system | A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
 [timeanddate](https://www.timeanddate.com/date/weeknumber.html) | Online | Week Number Calculator: What Week of the Year Is It?
 [Firefox Relay](https://relay.firefox.com/) | Online | Firefox Relay⁩ makes it easy to create email aliases, aliases that forward to your real inbox
 [doitsujin/dxvk](https://github.com/doitsujin/dxvk) | Windows | Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
