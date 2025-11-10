@@ -98,6 +98,7 @@ Name | Type | Description
 [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) | Windows | .NET debugger and assembly editor
 [WampServer](https://sourceforge.net/projects/wampserver/) | Windows | WampServer is a Web development platform on Windows that allows you to create dynamic Web applications with Apache2, PHP, MySQL and MariaDB.
 [Docker Desktop](https://www.docker.com/products/docker-desktop/) | Windows | Streamline development with Docker Desktop’s powerful container tools.
+[GitHub Desktop](https://github.com/apps/desktop) | Windows | Experience Git without the struggle
 
 *Formatter*
 Name | Type | Description
