@@ -65,30 +65,12 @@ Name | ---- | Description
 [prasathmani/tinyfilemanager](https://github.com/prasathmani/tinyfilemanager) | Web system | Single-file PHP file manager, browser and manage your files efficiently and easily with tinyfilemanager
 [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) | Web system | A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 
-*Development*
+*RAG,LLM*
 Name | Type | Description
 ---- | ---- | ----
-[MDN Web Docs](https://developer.mozilla.org/en-US/) | Online | Documenting web technologies, including CSS, HTML, and JavaScript, since 2005.
-[Can I use...](https://caniuse.com/) | Online | Support tables for HTML5, CSS3, etc
-[Can I email...](https://www.caniemail.com/) | Online | Support tables for HTML and CSS in emails.
-[JSFiddle](https://jsfiddle.net/) | Online | Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.
-[PLAYCODE](https://playcode.io/) | Online | javascript playground with instant live preview and console
-[Free Online IDE and Terminal](https://www.tutorialspoint.com/codingground.htm) | Online | Online IDE and Terminal
-[Code Beautify](https://codebeautify.org/) | Online | JSON Beautifier, XML Viewer, JSON Converters, Hex Converters and More..
-[URL Decode and Encode](https://www.urldecoder.org/) | Online | URL Decode and Encode
-[JSON Formatter & Validator](https://jsonformatter.curiousconcept.com/) | Online | JSON Formatter & Validator
-[Swagger Editor](https://editor-next.swagger.io/) | Online | The Swagger Editor offers an easy way to get started with the OpenAPI Specification (formerly known as Swagger) as well as the AsyncAPI specification.
-[pandao/editor.md](https://github.com/pandao/editor.md) | Online | The open source embeddable online markdown editor (component)
-[Milkdown/milkdown](https://milkdown.dev/playground) | Online | Plugin driven WYSIWYG markdown editor framework.
-[Libraries.io](https://libraries.io/) | Online | Libraries.io monitors 5,264,226 open source packages across 32 different package managers
-[BuiltWith Technology Lookup](https://builtwith.com/) | Online | Find out what websites areBuilt With
-[compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) | Online | Run compilers interactively from your web browser and interact with the assembly
-[startbootstrap.com](https://startbootstrap.com/themes) | Online | Bootstrap Templates & Themes
-[mapstogpx.com](https://mapstogpx.com/mobiledev.php) | Online | Maps to GPX Converter for location aware development
-[nyan のアプリ開発](https://akira-watson.com/) | Online | Android アプリを作る
-[veler/DevToys](https://github.com/veler/DevToys) | Windows | A Swiss Army knife for developers
-[dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) | Windows | .NET debugger and assembly editor
-[WampServer](https://sourceforge.net/projects/wampserver/) | Windows | WampServer is a Web development platform on Windows that allows you to create dynamic Web applications with Apache2, PHP, MySQL and MariaDB.
+[dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | Online | Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
+[Ollama](https://ollama.com/) | Windows |  Chat & build with open models.
+[infiniflow/ragflow](https://github.com/infiniflow/ragflow) | Web system | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 
 *Database*
 Name | Type | Description
@@ -98,20 +80,44 @@ Name | Type | Description
 [vrana/adminer](https://github.com/vrana/adminer) | Web system | Database management in a single PHP file
 [apache/airflow](https://github.com/apache/airflow) | Web system | Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 
+*Development*
+Name | Type | Description
+---- | ---- | ----
+[MDN Web Docs](https://developer.mozilla.org/en-US/) | Online | Documenting web technologies, including CSS, HTML, and JavaScript, since 2005.
+[Can I use...](https://caniuse.com/) | Online | Support tables for HTML5, CSS3, etc
+[Can I email...](https://www.caniemail.com/) | Online | Support tables for HTML and CSS in emails.
+[JSFiddle](https://jsfiddle.net/) | Online | Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.
+[PLAYCODE](https://playcode.io/) | Online | javascript playground with instant live preview and console
+[Free Online IDE and Terminal](https://www.tutorialspoint.com/codingground.htm) | Online | Online IDE and Terminal
+[BuiltWith Technology Lookup](https://builtwith.com/) | Online | Find out what websites areBuilt With
+[Libraries.io](https://libraries.io/) | Online | Libraries.io monitors 5,264,226 open source packages across 32 different package managers
+[startbootstrap.com](https://startbootstrap.com/themes) | Online | Bootstrap Templates & Themes
+[nyan のアプリ開発](https://akira-watson.com/) | Online | Android アプリを作る
+[veler/DevToys](https://github.com/veler/DevToys) | Windows | A Swiss Army knife for developers
+[dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) | Windows | .NET debugger and assembly editor
+[WampServer](https://sourceforge.net/projects/wampserver/) | Windows | WampServer is a Web development platform on Windows that allows you to create dynamic Web applications with Apache2, PHP, MySQL and MariaDB.
+[mapstogpx.com](https://mapstogpx.com/mobiledev.php) | Online | Maps to GPX Converter for location aware development
+
+*Formatter*
+Name | Type | Description
+---- | ---- | ----
+[Code Beautify](https://codebeautify.org/) | Online | JSON Beautifier, XML Viewer, JSON Converters, Hex Converters and More..
+[JSON Formatter & Validator](https://jsonformatter.curiousconcept.com/) | Online | JSON Formatter & Validator
+[Milkdown/milkdown](https://milkdown.dev/playground) | Online | Plugin driven WYSIWYG markdown editor framework.
+[pandao/editor.md](https://github.com/pandao/editor.md) | Online | The open source embeddable online markdown editor (component)
+[URL Decode and Encode](https://www.urldecoder.org/) | Online | URL Decode and Encode
+[Swagger Editor](https://editor-next.swagger.io/) | Online | The Swagger Editor offers an easy way to get started with the OpenAPI Specification (formerly known as Swagger) as well as the AsyncAPI specification.
+
 *Reverse*
 Name | Type | Description
 ---- | ---- | ----
+[compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) | Online | Run compilers interactively from your web browser and interact with the assembly
 [dotPeek](https://www.jetbrains.com/decompiler/) | Windows | dotPeek is a free-of-charge standalone tool based on ReSharper's bundled decompiler. It can reliably decompile any .NET assembly into equivalent C# or IL code.
 [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) | Windows | An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 [WerWolv/ImHex](https://github.com/WerWolv/ImHex) | Windows | A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) | Windows | .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 [API Monitor v2](http://www.rohitab.com/apimonitor) | Windows | API Monitor is a free software that lets you monitor and control API calls made by applications and services.
 [hasherezade/IAT_patcher](https://github.com/hasherezade/IAT_patcher) | Windows | Persistent IAT hooking application - based on bearparser
-
-*RAG,LLM*
-[dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | Online | Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
-[Ollama](https://ollama.com/) | Windows |  Chat & build with open models.
-[infiniflow/ragflow](https://github.com/infiniflow/ragflow) | Web system |  RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 
 *System*
 Name | Type | Description
