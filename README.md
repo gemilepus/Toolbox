@@ -95,7 +95,7 @@ Name | Type | Description
 ---- | ---- | ----
 [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) | Windows | A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.
 [phpMyAdmin](https://www.phpmyadmin.net/) | Web system | phpMyAdmin is a free software tool written in PHP, intended to handle the administration of MySQL over the Web
-[vrana/adminer](https://github.com/vrana/adminer) | Web system | Database management in a single PHP file
+[apache/airflow](https://github.com/apache/airflow) | Web system | Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 
 *Reverse*
 Name | Type | Description
@@ -106,6 +106,11 @@ Name | Type | Description
 [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) | Windows | .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 [API Monitor v2](http://www.rohitab.com/apimonitor) | Windows | API Monitor is a free software that lets you monitor and control API calls made by applications and services.
 [hasherezade/IAT_patcher](https://github.com/hasherezade/IAT_patcher) | Windows | Persistent IAT hooking application - based on bearparser
+
+*RAG,LLM*
+[dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | Online | Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
+[Ollama](https://ollama.com/) | Windows |  Chat & build with open models.
+[infiniflow/ragflow](https://github.com/infiniflow/ragflow) | Web system |  RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 
 *System*
 Name | Type | Description
