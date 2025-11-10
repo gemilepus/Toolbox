@@ -90,13 +90,14 @@ Name | Type | Description
 [PLAYCODE](https://playcode.io/) | Online | javascript playground with instant live preview and console
 [Free Online IDE and Terminal](https://www.tutorialspoint.com/codingground.htm) | Online | Online IDE and Terminal
 [BuiltWith Technology Lookup](https://builtwith.com/) | Online | Find out what websites areBuilt With
+[nyan のアプリ開発](https://akira-watson.com/) | Online | Android アプリを作る
 [Libraries.io](https://libraries.io/) | Online | Libraries.io monitors 5,264,226 open source packages across 32 different package managers
 [startbootstrap.com](https://startbootstrap.com/themes) | Online | Bootstrap Templates & Themes
-[nyan のアプリ開発](https://akira-watson.com/) | Online | Android アプリを作る
+[mapstogpx.com](https://mapstogpx.com/mobiledev.php) | Online | Maps to GPX Converter for location aware development
 [veler/DevToys](https://github.com/veler/DevToys) | Windows | A Swiss Army knife for developers
 [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) | Windows | .NET debugger and assembly editor
 [WampServer](https://sourceforge.net/projects/wampserver/) | Windows | WampServer is a Web development platform on Windows that allows you to create dynamic Web applications with Apache2, PHP, MySQL and MariaDB.
-[mapstogpx.com](https://mapstogpx.com/mobiledev.php) | Online | Maps to GPX Converter for location aware development
+[Docker Desktop](https://www.docker.com/products/docker-desktop/) | Windows | Streamline development with Docker Desktop’s powerful container tools.
 
 *Formatter*
 Name | Type | Description
@@ -138,7 +139,7 @@ Name | Type | Description
 [NordVPN IP Lookup](https://nordvpn.com/ip-lookup/) | Online | IP address lookup: Find your IP geolocation
 [Allow CORS: Access-Control-Allow-Origin](https://chromewebstore.google.com/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf) | Windows | Easily add (Access-Control-Allow-Origin: *) rule to the response header.Allow CORS: Access-Control-Allow-Origin lets you easily perform cross-domain Ajax requests in web applications.
 [qBittorrent](https://www.qbittorrent.org/) | Windows | The qBittorrent project aims to provide an open-source software alternative to µTorrent.
-[Apache guacamole](https://guacamole.apache.org/) | Web system | Apache Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH.
+[Apache guacamole](https://guacamole.apache.org/) :sparkles: | Web system | Apache Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH.
 [Nginx Proxy Manager](https://nginxproxymanager.com/) | Web system | This project comes as a pre-built docker image that enables you to easily forward to your websites running at home or otherwise
 [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | Web system | The communications platform that puts data protection first.
 
