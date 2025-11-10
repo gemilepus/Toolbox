@@ -95,6 +95,7 @@ Name | Type | Description
 ---- | ---- | ----
 [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) | Windows | A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.
 [phpMyAdmin](https://www.phpmyadmin.net/) | Web system | phpMyAdmin is a free software tool written in PHP, intended to handle the administration of MySQL over the Web
+[vrana/adminer](https://github.com/vrana/adminer) | Web system | Database management in a single PHP file
 [apache/airflow](https://github.com/apache/airflow) | Web system | Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 
 *Reverse*
