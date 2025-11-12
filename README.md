@@ -23,6 +23,7 @@ Name | Type | Description
 [network-science/ASCII Generator](http://www.network-science.de/ascii/) | Online | Generate a ASCII graphic from a word or text
 [ASCII-Generator](https://ascii-generator.site/) | Online | Upload an image file to convert it to ASCII art
 [stan-smith/FossFLOW](https://stan-smith.github.io/FossFLOW/) | Online | Make beautiful isometric infrastructure diagrams
+[11zon Barcode Generator](https://bigbarcode.11zon.com/en/barcode-generator/) | Online | It's easy to create barcode using text on barcode generator tool.
 [Stately](https://stately.ai/) | Online | Stately is building tools to visualize your application logic using XState
 [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Web system | Stable Diffusion web UI
 
