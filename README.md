@@ -44,7 +44,7 @@ Name | Type | Description
 [Material Icons](https://fonts.google.com/icons?selected=Material+Icons) | Online | Material Icons
 [Feather](https://feathericons.com/) | Online | Simply beautiful open source icons
 [Adobe Color](https://color.adobe.com/) | Online | Create color palettes with the color wheel or image
-[Color picker tool](https://developer.mozilla.org/zh-TW/docs/Web/CSS/CSS_Colors/Color_picker_tool) | Online | Color picker tool
+[MDN Color picker tool](https://developer.mozilla.org/zh-TW/docs/Web/CSS/CSS_Colors/Color_picker_tool) | Online | Color picker tool
 [NIPPON COLORS](https://nipponcolors.com/) | Online | The Traditional Colors of Nippon (Japan)
 [Emoji](https://tw.piliapp.com/emoji/list/) | Online | emoji list
 
