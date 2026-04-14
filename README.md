@@ -60,6 +60,7 @@ Name | Type | Description
 *File*
 Name | ---- | Description
 ---- | ---- | ----
+[BentoPDF](https://bentopdf.com/) | Online | Free online PDF tools - Merge, split, compress, convert PDFs ☆ 100% browser-based
 [CloudConvert](https://cloudconvert.com/) | Online | CloudConvert is an online file converter
 [aspose.app](https://www.aspose.app/) | Online | File Format Apps
 [Total Commander](https://www.ghisler.com/) :sparkles: | Windows | file manager for Windows
