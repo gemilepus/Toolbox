@@ -90,6 +90,7 @@ Name | Type | Description
 [Can I email...](https://www.caniemail.com/) | Online | Support tables for HTML and CSS in emails.
 [JSFiddle](https://jsfiddle.net/) | Online | Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.
 [PLAYCODE](https://playcode.io/) | Online | javascript playground with instant live preview and console
+[HTML Online Viewer](https://html.onlineviewer.net/) | Online | HTML Online Viewer is a fast HTML editor and formatter with an instant live preview. View, edit and format your HTML in real-time!
 [Free Online IDE and Terminal](https://www.tutorialspoint.com/codingground.htm) | Online | Online IDE and Terminal
 [BuiltWith Technology Lookup](https://builtwith.com/) | Online | Find out what websites areBuilt With
 [nyan のアプリ開発](https://akira-watson.com/) | Online | Android アプリを作る
