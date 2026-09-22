@@ -60,6 +60,7 @@ Name | Type | Description
 *File*
 Name | ---- | Description
 ---- | ---- | ----
+[Adobe Convert PDF to Word](https://www.adobe.com/acrobat/online/pdf-to-word.html) | Online | Turn PDFs into editable Word files.
 [BentoPDF](https://bentopdf.com/) | Online | Free online PDF tools - Merge, split, compress, convert PDFs ☆ 100% browser-based
 [CloudConvert](https://cloudconvert.com/) | Online | CloudConvert is an online file converter
 [aspose.app](https://www.aspose.app/) | Online | File Format Apps
