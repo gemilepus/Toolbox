@@ -164,6 +164,8 @@ Name | Type | Description
 [XAML Studio](https://apps.microsoft.com/detail/9ntls214tkmq?hl=zh-hk&gl=HK) | Windows | XAML Studio is a developer tool for rapidly prototyping UWP based XAML apps
 [GCP Icons](https://gcpicons.com/) | Online | GCP Icons: SVG and PNG Google Cloud Platform icons
 [Abrar74774/FossFLOW](https://github.com/Abrar74774/FossFLOW) | Online | Make beautiful isometric infrastructure diagrams. (A continuation of stan-smith/FossFLOW)
-
+[VPN Gate](https://www.vpngate.net/en/download.aspx) | Windows | VPN Gate Academic Experiment Project is an online service as an academic research at Graduate School of University of Tsukuba, Japan. The purpose of this research is to expand the knowledge of "Global Distributed Public VPN Relay Servers" .
+[Microsoft-Activation-Scripts](https://github.com/massgravel/microsoft-activation-scripts)| Windows | Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
+[GIPHY](https://giphy.com/) | Online | GIPHY is the platform that animates your world. Find the GIFs, Clips, and Stickers that make your conversations more positive, more expressive, ...
 
 
