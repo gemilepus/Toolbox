@@ -72,9 +72,11 @@ Name | ---- | Description
 *RAG,LLM*
 Name | Type | Description
 ---- | ---- | ----
-[dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | Online | Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
-[Ollama](https://ollama.com/) | Windows |  Chat & build with open models.
+[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Windows |  The agent that grows with you
+[Niko1221/Strata](https://github.com/Niko1221/Strata) | Windows |  Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | Web system | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
+[Ollama](https://ollama.com/) | Windows |  Chat & build with open models.
+[dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | Online | Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 
 *Database*
 Name | Type | Description
