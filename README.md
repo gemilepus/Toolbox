@@ -13,6 +13,15 @@ Name | Type | Description
 [Tampermonkey](https://www.tampermonkey.net/)  | Windows | It allows its users to customize and enhance the functionality of your favorite web pages
 [MacroDroid](https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid&hl=zh_TW&gl=US) | Android | Device Automation
 
+*LLM、RAG*
+Name | Type | Description
+---- | ---- | ----
+[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Windows |  The agent that grows with you
+[Niko1221/Strata](https://github.com/Niko1221/Strata) | Windows |  Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
+[infiniflow/ragflow](https://github.com/infiniflow/ragflow) | Web system | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
+[Ollama](https://ollama.com/) | Windows |  Chat & build with open models.
+[dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | Online | Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
+
 *Graph drawing,Photo Editor*
 Name | Type | Description
 ---- | ---- | ----
@@ -68,15 +77,6 @@ Name | ---- | Description
 [files-community/Files](https://github.com/files-community/Files) | Windows | A modern file manager for Windows
 [prasathmani/tinyfilemanager](https://github.com/prasathmani/tinyfilemanager) | Web system | Single-file PHP file manager, browser and manage your files efficiently and easily with tinyfilemanager
 [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) | Web system | A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
-
-*RAG,LLM*
-Name | Type | Description
----- | ---- | ----
-[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Windows |  The agent that grows with you
-[Niko1221/Strata](https://github.com/Niko1221/Strata) | Windows |  Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
-[infiniflow/ragflow](https://github.com/infiniflow/ragflow) | Web system | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
-[Ollama](https://ollama.com/) | Windows |  Chat & build with open models.
-[dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | Online | Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 
 *Database*
 Name | Type | Description
