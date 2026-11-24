@@ -20,6 +20,7 @@ Name | Type | Description
 [Niko1221/Strata](https://github.com/Niko1221/Strata) | Windows |  Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | Web system | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 [Ollama](https://ollama.com/) | Windows |  Chat & build with open models.
+[ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | Windows |  LLM inference in C/C++
 [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | Online | Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 
 *Graph drawing,Photo Editor*
